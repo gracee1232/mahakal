@@ -15,6 +15,9 @@ build/
 *.db
 *.sqlite
 
+# Generated translation cache
+data/translated_output.json
+
 # Virtual env
 venv/
 .venv/
