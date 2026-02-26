@@ -1,0 +1,190 @@
+{
+  "heroTitle": "उज्जैन में होटल बुकिंग",
+  "heroDesc": "हम वन्यजीव यात्रियों को लग्जरी से लेकर बजट तक — सभी प्रकार के होटल और रिसॉर्ट तुरंत बुक करने में सक्षम बनाते हैं।",
+  "filters": {
+    "hotelRating": "होटल रेटिंग",
+    "star": "स्टार",
+    "sortBy": "क्रमबद्ध करें",
+    "options": {
+      "default": "डिफ़ॉल्ट",
+      "priceLow": "कीमत: कम से अधिक",
+      "priceHigh": "कीमत: अधिक से कम",
+      "rating": "रेटिंग"
+    }
+  },
+  "list": {
+    "featured": "विशेष रुप से प्रदर्शित",
+    "reviews": "समीक्षाएँ",
+    "night": "/ रात",
+    "enquireNow": "अभी पूछताछ करें",
+    "noResults": "आपके मानदंडों से मेल खाने वाले कोई होटल नहीं मिले।"
+  },
+  "hotelsList": [
+    {
+      "id": 5,
+      "title": "ग्रैंड महाकाल हेरिटेज",
+      "slug": "grand-mahakal-heritage-4",
+      "subtitle": "महाकालेश्वर मंदिर से मात्र 200 मीटर की दूरी पर लक्जरी प्रवास",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_5.webp",
+      "rating": 4.9,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "महाकाल मंदिर गेट नंबर 3 के पास",
+      "currentPrice": "8,499/-",
+      "amenities": [
+        "24 घंटे फ्रंट डेस्क",
+        "मुफ्त पार्किंग",
+        "हवाई अड्डा स्थानान्तरण (चार्जेबल)",
+        "व्यापार केंद्र",
+        "कॉल पर डॉक्टर",
+        "कपड़े धोने की सेवा",
+        "सामान रखने की जगह",
+        "बहुभाषी कर्मचारी"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "रुद्राक्ष रिवरसाइड रिट्रीट",
+      "slug": "rudraksh-riverside-retreat-5",
+      "subtitle": "क्षिप्रा नदी के तट पर प्रीमियम संपत्ति",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_6.webp",
+      "rating": 3.7,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "राम घाट रोड, उज्जैन",
+      "currentPrice": "6,999/-",
+      "amenities": [
+        "मुफ्त साइकिल किराये",
+        "24 घंटे सुरक्षा",
+        "ट्रैवल डेस्क",
+        "मुद्रा विनिमय",
+        "उपहार की दुकान",
+        "मुफ्त वाईफाई",
+        "पावर बैकअप"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "शिवम एक्जीक्यूटिव इन",
+      "slug": "shivam-executive-inn-6",
+      "subtitle": "रेलवे स्टेशन के पास बिजनेस-क्लास होटल",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_7.webp",
+      "rating": 5,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "रेलवे स्टेशन के सामने, उज्जैन",
+      "currentPrice": "4,200/-",
+      "amenities": [
+        "व्यापार केंद्र",
+        "लॉबी में एटीएम",
+        "कॉल पर डॉक्टर",
+        "कपड़े धोने की सेवा",
+        "लिफ्ट पहुंच",
+        "सीसीटीवी सुरक्षा"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "ओंकार हेरिटेज हवेली",
+      "slug": "omkar-heritage-haveli-7",
+      "subtitle": "आधुनिक सुविधाओं के साथ 18वीं सदी की पुनर्निर्मित हवेली",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_8.webp",
+      "rating": 4.8,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "पुराना शहर, उज्जैन",
+      "currentPrice": "12,500/-",
+      "amenities": [
+        "स्विमिंग पूल",
+        "आयुर्वेदिक स्पा",
+        "दुर्लभ पांडुलिपियों वाला पुस्तकालय",
+        "सांस्कृतिक प्रदर्शन",
+        "कुकिंग क्लासेस",
+        "निर्देशित हेरिटेज टूर"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "शिवम एक्जीक्यूटिव इन",
+      "slug": "shivam-executive-inn-2",
+      "subtitle": "रेलवे स्टेशन के पास बिजनेस-क्लास होटल",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_3.webp",
+      "rating": 3.2,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "रेलवे स्टेशन के सामने, उज्जैन",
+      "currentPrice": "4,200/-",
+      "amenities": [
+        "व्यापार केंद्र",
+        "लॉबी में एटीएम",
+        "कॉल पर डॉक्टर",
+        "कपड़े धोने की सेवा",
+        "लिफ्ट पहुंच",
+        "सीसीटीवी सुरक्षा"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ओंकार हेरिटेज हवेली",
+      "slug": "omkar-heritage-haveli-3",
+      "subtitle": "आधुनिक सुविधाओं के साथ 18वीं सदी की पुनर्निर्मित हवेली",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_4.webp",
+      "rating": 5,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "पुराना शहर, उज्जैन",
+      "currentPrice": "12,500/-",
+      "amenities": [
+        "स्विमिंग पूल",
+        "आयुर्वेदिक स्पा",
+        "दुर्लभ पांडुलिपियों वाला पुस्तकालय",
+        "सांस्कृतिक प्रदर्शन",
+        "कुकिंग क्लासेस",
+        "निर्देशित हेरिटेज टूर"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "ग्रैंड महाकाल हेरिटेज",
+      "slug": "grand-mahakal-heritage-8",
+      "subtitle": "महाकालेश्वर मंदिर से मात्र 200 मीटर की दूरी पर लक्जरी प्रवास",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_1.webp",
+      "rating": 3.9,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "महाकाल मंदिर गेट नंबर 3 के पास",
+      "currentPrice": "8,499/-",
+      "amenities": [
+        "24 घंटे फ्रंट डेस्क",
+        "मुफ्त पार्किंग",
+        "हवाई अड्डा स्थानान्तरण (चार्जेबल)",
+        "व्यापार केंद्र",
+        "कॉल पर डॉक्टर",
+        "कपड़े धोने की सेवा",
+        "सामान रखने की जगह",
+        "बहुभाषी कर्मचारी"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "रुद्राक्ष रिवरसाइड रिट्रीट",
+      "slug": "rudraksh-riverside-retreat-9",
+      "subtitle": "क्षिप्रा नदी के तट पर प्रीमियम संपत्ति",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_2.webp",
+      "rating": 5,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "राम घाट रोड, उज्जैन",
+      "currentPrice": "6,999/-",
+      "amenities": [
+        "मुफ्त साइकिल किराये",
+        "24 घंटे सुरक्षा",
+        "ट्रैवल डेस्क",
+        "मुद्रा विनिमय",
+        "उपहार की दुकान",
+        "मुफ्त वाईफाई",
+        "पावर बैकअप"
+      ]
+    }
+  ]
+}

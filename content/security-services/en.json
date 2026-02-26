@@ -1,0 +1,94 @@
+{
+  "title": "Security Services",
+  "enquireNow": "Enquire Now",
+  "services": [
+    {
+      "name": "Elite Celebrity Bodyguard",
+      "inclusions": [
+        "Lead protection agent",
+        "Secure transportation",
+        "Event security coordination",
+        "24/7 monitoring"
+      ],
+      "slug": "elite-celebrity-bodyguard-0",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/eliteVipProtection.webp"
+    },
+    {
+      "name": "Event Security",
+      "inclusions": [
+        "Event security team",
+        "Coordination with local authorities",
+        "Access control systems",
+        "Pre-event risk assessment"
+      ],
+      "slug": "event-security-1",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityEventSecurity.webp"
+    },
+    {
+      "name": "Secure Transportation",
+      "inclusions": [
+        "Trained security driver",
+        "Fuel for included kilometers",
+        "Toll taxes and parking",
+        "Real-time route monitoring"
+      ],
+      "slug": "vip-armored-transport-2",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/vipArmoredTransport.webp"
+    },
+    {
+      "name": "Residential Security",
+      "inclusions": [
+        "Security team on-site",
+        "Daily perimeter checks",
+        "Alarm system maintenance",
+        "Emergency response coordination"
+      ],
+      "slug": "residential-security-3",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityResidentialProtection.webp"
+    },
+    {
+      "name": "Tour Security",
+      "inclusions": [
+        "Tour security team",
+        "Advance venue scouting",
+        "Secure transport coordination",
+        "Local authority liaison"
+      ],
+      "slug": "celebrity-tour-protection-4",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityTourProtection.webp"
+    },
+    {
+      "name": "Female Bodyguard",
+      "inclusions": [
+        "Lead female protection agent",
+        "Secure transportation",
+        "Event security coordination",
+        "Privacy-focused protection"
+      ],
+      "slug": "female-bodyguard-5",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/discreetFemaleVIPProtection.webp"
+    },
+    {
+      "name": "Digital Security",
+      "inclusions": [
+        "Cyber threat monitoring",
+        "Device security setup",
+        "Social media protection",
+        "Incident response team"
+      ],
+      "slug": "celebrity-cyber-protection-6",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityCyberProtection.webp"
+    },
+    {
+      "name": "Paparazzi Management",
+      "inclusions": [
+        "Media liaison team",
+        "Crowd control measures",
+        "Secure entry/exit planning",
+        "Privacy consultation"
+      ],
+      "slug": "paparazzi-management-7",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityPaparazziProtection.webp"
+    }
+  ]
+}

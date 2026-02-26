@@ -1,0 +1,38 @@
+{
+    "title": "User Enquiry Form",
+    "labels": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "subject": "Subject",
+        "city": "City",
+        "state": "State",
+        "country": "Country",
+        "pincode": "Pincode",
+        "message": "Message"
+    },
+    "placeholders": {
+        "name": "Enter your name",
+        "email": "Enter your email",
+        "phone": "Enter your phone",
+        "subject": "Enter your subject",
+        "city": "Enter your city",
+        "state": "Enter your state",
+        "country": "Enter your country",
+        "pincode": "Enter your pincode",
+        "message": "Write your message here"
+    },
+    "errors": {
+        "nameRequired": "Name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Enter a valid email",
+        "phoneRequired": "Phone is required",
+        "phoneInvalid": "Enter a valid 10-digit phone number",
+        "pincodeInvalid": "Enter a valid 6-digit pincode"
+    },
+    "submitButton": "Submit Enquiry",
+    "submittingButton": "Submitting...",
+    "successTitle": "Thank you!",
+    "successMessage": "We have received your request.",
+    "goHomeButton": "Go to Home"
+}

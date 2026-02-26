@@ -1,0 +1,23 @@
+{
+    "heroTitle": "Tour Booking",
+    "heroDesc": "Explore top destinations like Ujjain, Omkareshwar, and more with our customizable tour packages. From spiritual journeys to cultural escapes, we make your travel seamless and memorable.",
+    "filters": {
+        "tourRating": "tour Rating",
+        "star": "Star",
+        "tourFor": "tour For",
+        "sortBy": "Sort By",
+        "options": {
+            "default": "Default",
+            "priceLow": "Price: Low to High",
+            "priceHigh": "Price: High to Low",
+            "rating": "Rating"
+        }
+    },
+    "list": {
+        "featured": "Featured",
+        "reviews": "Reviews",
+        "night": "/ Night",
+        "enquireNow": "Enquire Now",
+        "noResults": "No tours found matching your criteria."
+    }
+}

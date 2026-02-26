@@ -1,0 +1,84 @@
+{
+    "heroHeading": "ओंकारेश्वर",
+    "heroSubheading": "ओंकारेश्वर की शांति का अनुभव करें",
+    "heroText": "One of the twelve Jyotirlinga shrines of Lord Shiva, on an island shaped like 'Om'.",
+    "sections": {
+        "royalTownTitle": "The Royal Town of Omkareshwar",
+        "royalTownDesc": "Associated with Adi Shankaracharya and ancient Hindu scriptures.",
+        "ritualsTitle": "अनुष्ठान और पूजा",
+        "ghatsTitle": "घाट",
+        "aboutTitle": "विवरण",
+        "aboutDesc": "One of the twelve Jyotirlinga shrines of Lord Shiva, on an island shaped like 'Om'.",
+        "practicalTipsTitle": "व्यावहारिक सुझाव",
+        "practicalTipsDesc": "Planning your visit for a smooth experience.",
+        "templesTitle": "ओंकारेश्वर के मंदिर"
+    },
+    "cardLabels": {
+        "location": "स्थान",
+        "duration": "अवधि",
+        "timing": "समय",
+        "significance": "महत्व",
+        "architecture": "वास्तुकला",
+        "features": "विशेषताएं"
+    },
+    "videos": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/om1.mp4",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/om2.mp4",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/om3.mp4"
+    ],
+    "overview": [
+        "Omkareshwar is a sacred island town in the Khandwa district of Madhya Pradesh, India.",
+        "It is one of the twelve Jyotirlinga shrines of Lord Shiva.",
+        "The town is situated on Mandhata Island in the Narmada River, naturally shaped like 'Om'."
+    ],
+    "city": {
+        "name": "Omkareshwar",
+        "state": "Madhya Pradesh, India",
+        "significance": "One of the twelve Jyotirlinga shrines of Lord Shiva, on an island shaped like 'Om'.",
+        "historicalImportance": "Associated with Adi Shankaracharya and ancient Hindu scriptures."
+    },
+    "temples": [
+        {
+            "name": "Omkareshwar Jyotirlinga Temple",
+            "description": "One of the 12 Jyotirlingas, dedicated to Lord Shiva.",
+            "location": "Mandhata Island",
+            "architecture": "Nagara style",
+            "timings": "6:00 AM to 8:00 PM",
+            "features": "Daily Aarti"
+        }
+    ],
+    "rituals": [
+        {
+            "name": "Abhishek Pooja",
+            "description": "Sacred ritual involving the bathing of the Shiva Lingam.",
+            "location": "Temple",
+            "duration": "1-2 hours",
+            "timing": "6 AM to 4 PM",
+            "benefits": [
+                "spiritual cleansing"
+            ]
+        }
+    ],
+    "ghats": [
+        {
+            "name": "Koti Tirtha Ghat",
+            "description": "Main ghat for holy dips.",
+            "significance": "Considered highly sacred",
+            "location": "Mandhata Island",
+            "timings": "7:00 AM to 8:00 PM",
+            "facilities": [
+                "Bathing areas"
+            ]
+        }
+    ],
+    "practicalTips": {
+        "bestTimeToVisit": "Oct to Mar",
+        "dressCode": "Modest attire"
+    },
+    "nearbyAttractions": [
+        {
+            "name": "Maheshwar",
+            "distance": "60 km"
+        }
+    ]
+}

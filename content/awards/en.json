@@ -1,0 +1,30 @@
+{
+  "title": "Awards & Certifications",
+  "description": "Awarded for heritage preservation and exceptional experiences",
+  "items": [
+    {
+      "title": "5 Lac + Customers",
+      "highlight": "Happy customers across 5 Lac + experiences",
+      "description": "5 Lac+ happy customers have trusted us with their journeys, making us one of the most loved and trusted platforms.",
+      "image": "/_next/static/media/trophy.png"
+    },
+    {
+      "title": "4.5/5 Rating on Google",
+      "highlight": "6K+ verified reviews with 90% excellent score",
+      "description": "Thousands of guests have rated us highly on Google for our seamless service.",
+      "image": "/_next/static/media/google.png"
+    },
+    {
+      "title": "In the Media & Certified",
+      "highlight": "Recognized by Tourism & Certification Boards",
+      "description": "Recommended by the Ministry of Tourism, IATA, Himachal Tourism and ISO certified.",
+      "image": "/_next/static/media/ISO.png"
+    },
+    {
+      "title": "24 x 7 Help Center",
+      "highlight": "Live chat with local experts, anytime",
+      "description": "Round-the-clock assistance for all your queries through live chat with local experts.",
+      "image": "/_next/static/media/icon24x7.png"
+    }
+  ]
+}

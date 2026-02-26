@@ -1,0 +1,374 @@
+{
+    "Hero": {
+        "title": "Ujjain Mahakal Darshan & Spiritual Tours",
+        "subtitle": "Your Trusted Travel Partner From Indore",
+        "description": "Your trusted partner for Ujjain Mahakal Darshan and Omkareshwar Jyotirlinga Yatra. We provide complete pilgrimage services including Bhasm Aarti booking, taxi service, and hotel reservations.",
+        "btnBhasmAarti": "Bhasm Aarti Enquiry",
+        "btnAbhishek": "Abhishek Enquiry",
+        "btnVipDarshan": "VIP Darshan Enquiry"
+    },
+    "TourPackages": {
+        "titleEnglish": "Ujjain & Omkareshwar Tour Packages from Indore",
+        "descriptionEnglish": "We provide affordable and customized Ujjain & Omkareshwar tour packages from Indore that include taxi service, hotel booking, darshan arrangements, and guided visits. Enjoy a smooth and spiritual journey to both Jyotirlinga temples with us."
+    },
+    "CoreServices": {
+        "sectionTitle": "Our Core Services",
+        "sectionDesc": "Complete solutions for your spiritual journey",
+        "services": [
+            {
+                "id": "bhasm-aarti",
+                "titleEn": "Bhasm Aarti",
+                "description": "Experience the sacred morning ritual at Mahakal Temple",
+                "icon": "🔥",
+                "link": "/bhasm-aarti-registration"
+            },
+            {
+                "id": "vip-darshan",
+                "titleEn": "VIP Darshan",
+                "description": "Skip the queue with priority darshan access",
+                "icon": "👑",
+                "link": "/book-now/vip-darshan/vip-darshan"
+            },
+            {
+                "id": "abhishek",
+                "titleEn": "Abhishek Puja",
+                "description": "Perform sacred abhishek ceremony with priest guidance",
+                "icon": "💧",
+                "link": "/abhishek-booking"
+            },
+            {
+                "id": "tour-packages",
+                "titleEn": "Tour Packages",
+                "description": "Complete pilgrimage packages with accommodation",
+                "icon": "🕉️",
+                "link": "/book-now/tour-packages/ujjain-darshan"
+            },
+            {
+                "id": "hotel",
+                "titleEn": "Hotel Booking",
+                "description": "Comfortable stays near the temple",
+                "icon": "🏨",
+                "link": "/hotels-in-mp"
+            },
+            {
+                "id": "transport",
+                "titleEn": "Transport",
+                "description": "Reliable vehicle services for your journey",
+                "icon": "🚗",
+                "link": "/book-now/vehicles/sedan"
+            }
+        ]
+    },
+    "CompletePilgrimageSolutions": {
+        "sectionTitle": "Complete Pilgrimage Solutions",
+        "sectionDesc": "From Booking to Journey - We Handle Everything",
+        "steps": [
+            {
+                "id": "choose-service",
+                "titleEn": "Choose Service",
+                "descriptionEn": "Select service as per your need - Darshan, Puja, Hotel, or Taxi",
+                "icon": "🔍",
+                "mockupType": "dropdown"
+            },
+            {
+                "id": "fill-form",
+                "titleEn": "Fill Form",
+                "descriptionEn": "Fill simple form. Your information will be updated instantly in our system",
+                "icon": "📝",
+                "mockupType": "form"
+            },
+            {
+                "id": "make-payment",
+                "titleEn": "Make Payment",
+                "descriptionEn": "Scan QR code and make secure payment. Detailed plan will be received instantly",
+                "icon": "💳",
+                "mockupType": "payment"
+            },
+            {
+                "id": "we-handle-rest",
+                "titleEn": "We'll Handle Rest",
+                "descriptionEn": "Our team will contact you and guide throughout the entire journey",
+                "icon": "🤝",
+                "mockupType": "confirmation"
+            }
+        ],
+        "servicesGrid": [
+            {
+                "id": "transportation",
+                "icon": "🚗",
+                "labelEn": "Transportation"
+            },
+            {
+                "id": "hotel-booking",
+                "icon": "🏨",
+                "labelEn": "Hotel Booking"
+            },
+            {
+                "id": "darshan-puja",
+                "icon": "🙏",
+                "labelEn": "Darshan & Puja"
+            },
+            {
+                "id": "pandit-services",
+                "icon": "👨‍🏫",
+                "labelEn": "Pandit Services"
+            },
+            {
+                "id": "tour-guide",
+                "icon": "🗺️",
+                "labelEn": "Tour Guide"
+            },
+            {
+                "id": "photography",
+                "icon": "📸",
+                "labelEn": "Photography"
+            }
+        ],
+        "mockupUI": {
+            "selectService": "Select Your Service",
+            "bhasmAarti": "Bhasm Aarti",
+            "vipDarshan": "VIP Darshan",
+            "abhishek": "Abhishek",
+            "bookingDetails": "Booking Details",
+            "name": "Name",
+            "phone": "Phone",
+            "date": "Date",
+            "continue": "Continue",
+            "completePayment": "Complete Payment",
+            "amount": "₹2,500",
+            "scanQr": "Scan QR Code",
+            "bookingConfirmed": "Booking Confirmed!",
+            "bookingId": "Booking ID:",
+            "service": "Service:"
+        }
+    },
+    "MahakalTourPackages": {
+        "titleEnglish": "Hotel Booking in Ujjain & Omkareshwar",
+        "descriptionEnglish": "Find the best hotel booking options in Ujjain and Omkareshwar, ranging from budget stays to premium accommodations. We ensure comfortable stays near temples for a peaceful pilgrimage experience.",
+        "locationLabel": "Location:",
+        "perPersonLabel": "per person",
+        "highlightsLabel": "Highlights:"
+    },
+    "VehiclesPackages": {
+        "titleEnglish": "Indore to Ujjain Taxi & Car Rental Services",
+        "descriptionEnglish": "Our reliable Indore to Ujjain taxi and car rental services make your travel comfortable and hassle-free. Choose from a wide range of cars for one-way or round trips at affordable prices.",
+        "persons": "persons",
+        "off": "OFF"
+    },
+    "PoojaBooking": {
+        "titleEnglish": "Bhasma Aarti Pooja Booking in Ujjain Mahakal Temple",
+        "descriptionEnglish": "We offer trusted Bhasma Aarti booking services at Shri Mahakaleshwar Jyotirlinga Temple. Skip the long queues and secure your entry for the sacred early morning ritual with our support."
+    },
+    "ThingsToDoInUjjain": {
+        "titleEnglish": "Things To Do In Ujjain",
+        "descriptionEnglish": "From attending the divine Bhasma Aarti, visiting ancient temples, exploring ghats, to experiencing local culture, there are many things to do in Ujjain that make your trip memorable.",
+        "locationLabel": "Location:",
+        "timingsLabel": "Timings:",
+        "entryFeeLabel": "Entry Fee:",
+        "categoryLabel": "Category:",
+        "ratingLabel": "Rating:"
+    },
+    "PlacesNearUjjain": {
+        "titleEnglish": "Places Near Ujjain",
+        "descriptionEnglish": "Discover beautiful places near Ujjain like Omkareshwar, Mandu, Maheshwar, and Indore. These destinations are perfect for extending your spiritual and cultural journey.",
+        "kmAway": "km away"
+    },
+    "Awards": {
+        "titleEnglish": "Why Choose Ujjain Mahakal Tour & Travels in Indore",
+        "descriptionEnglish": "With years of experience, affordable packages, 24/7 support, and complete services from taxi to temple bookings, we are most trusted Ujjain & Omkareshwar tour agency in Indore."
+    },
+    "TrustIndicators": {
+        "sectionTitle": "Why Choose Us",
+        "sectionDesc": "Your Trusted Partner for Spiritual Journey",
+        "stats": [
+            {
+                "id": "experience",
+                "number": "15+",
+                "labelEn": "Years of Experience",
+                "icon": "🏆"
+            },
+            {
+                "id": "pilgrims",
+                "number": "50,000+",
+                "labelEn": "Happy Pilgrims",
+                "icon": "🙏"
+            },
+            {
+                "id": "rating",
+                "number": "4.9/5",
+                "labelEn": "Customer Rating",
+                "icon": "⭐"
+            },
+            {
+                "id": "support",
+                "number": "24/7",
+                "labelEn": "Support Available",
+                "icon": "📞"
+            }
+        ],
+        "certifications": [
+            {
+                "id": "iso",
+                "labelEn": "ISO Certified"
+            },
+            {
+                "id": "gov",
+                "labelEn": "Government Approved"
+            },
+            {
+                "id": "verified",
+                "labelEn": "Verified by Travelers"
+            }
+        ]
+    },
+    "Contact": {
+        "titleEnglish": "Contact Us",
+        "descriptionEnglish": "Get in touch for customized travel plans and temple visit assistance.",
+        "addressLabel": "Address",
+        "addressText": "Skye Earth Corporate Park, 1206 E, opp. Shalimar Township, Indore, Madhya Pradesh 452010",
+        "phoneLabel": "Phone",
+        "phoneText": "+91 9111452099",
+        "emailLabel": "Email",
+        "emailText": "info@ujjainmahakal.com",
+        "formName": "Name",
+        "formNamePlaceholder": "Your Name",
+        "formNameError": "Name is required",
+        "formEmail": "Email",
+        "formEmailPlaceholder": "Your Email",
+        "formPhone": "Phone",
+        "formPhonePlaceholder": "Your Phone Number",
+        "formPhoneError": "Invalid phone number",
+        "formSubject": "Subject",
+        "formSubjectPlaceholder": "Subject",
+        "formMessage": "Message",
+        "formMessagePlaceholder": "Your Message",
+        "formSubmit": "Send Message",
+        "formSuccess": "Form submitted successfully!"
+    },
+    "QuickBookingBar": {
+        "title": "Quick Booking",
+        "description": "Plan your spiritual journey",
+        "dateLabel": "Date",
+        "dateError": "Please select a date",
+        "futureDateError": "Please select a future date",
+        "guestLabel": "Guests",
+        "guestError": "Guest count must be between 1 and 50",
+        "serviceLabel": "Service",
+        "serviceError": "Please select a service type",
+        "searchButton": "Search",
+        "services": [
+            {
+                "value": "",
+                "label": "Select Service"
+            },
+            {
+                "value": "bhasm-aarti",
+                "label": "Bhasm Aarti"
+            },
+            {
+                "value": "vip-darshan",
+                "label": "VIP Darshan"
+            },
+            {
+                "value": "abhishek-puja",
+                "label": "Abhishek Puja"
+            },
+            {
+                "value": "tour-package",
+                "label": "Tour Package"
+            },
+            {
+                "value": "hotel",
+                "label": "Hotel"
+            },
+            {
+                "value": "transport",
+                "label": "Transport"
+            }
+        ]
+    },
+    "SignatureExperiences": {
+        "sectionTitle": "Signature Experiences",
+        "sectionDesc": "Must-Do Spiritual Experiences",
+        "experiences": [
+            {
+                "id": "bhasm-aarti",
+                "titleEn": "Bhasm Aarti Darshan",
+                "timeEn": "4:00 AM",
+                "descriptionEn": "Witness the sacred Bhasm Aarti ritual. A once-in-a-lifetime spiritual experience.",
+                "detailsEn": [
+                    "Daily sacred ritual at 4 AM",
+                    "Lord Shiva adorned with sacred ash",
+                    "Thousands witness this divine experience"
+                ],
+                "images": [
+                    "https://simhastha.org.in/uploads/images/202511/image_a-morning-at-mahakaleshwar-my-experience-of-the-bhasma-aarti-in-ujjain-7b68e4.webp",
+                    "https://vedarshholidays.com/images/ujjain.jpg",
+                    "https://www.avaniholidays.in/images/blog_image/1738214448_special-bhasma-aarti-at-mahakaleshwar-temple-on-mauni-amavasya-in-ujjain.webp",
+                    "https://blog.ujjaindarshan.com/wp-content/uploads/2024/10/bhasmarti_mahakal_ujjain-671x671.jpg"
+                ],
+                "icon": "https://api.iconify.design/noto/fire.svg?width=48&height=48",
+                "link": "/bhasm-aarti-registration"
+            },
+            {
+                "id": "vip-darshan",
+                "titleEn": "VIP Darshan",
+                "timeEn": "Skip the Queue",
+                "descriptionEn": "Experience Lord Mahakal's divine presence with priority access.",
+                "detailsEn": [
+                    "Skip long waiting queues",
+                    "Dedicated guidance and assistance",
+                    "Peaceful and personal darshan experience"
+                ],
+                "images": [
+                    "https://staticimg.amarujala.com/assets/images/2023/03/04/virat-kohli-and-anushka-sharma_1677898976.jpeg?w=750",
+                    "https://images.mid-day.com/images/images/2024/dec/sonujjainmd5.jpg",
+                    "https://thenewsmill.com/wp-content/uploads/2023/08/aap-leader-raghav-chadha-parineeti-chopra-visit-mahakal-temple-in-mps-ujjain.jpg",
+                    "https://unitedbharat.net/wp-content/uploads/2024/09/a5a759294044e6d568f22621ac63a2e0_102759791-780x470.jpg"
+                ],
+                "icon": "https://api.iconify.design/noto/crown.svg?width=48&height=48",
+                "link": "/vip-darshan"
+            },
+            {
+                "id": "abhishek-puja",
+                "titleEn": "Abhishek Puja",
+                "timeEn": "Special Ritual",
+                "descriptionEn": "Perform sacred abhishek ceremony and receive divine blessings.",
+                "detailsEn": [
+                    "Sacred ritual with priest guidance",
+                    "Abhishek with milk, honey, and Ganga water",
+                    "Devotees find spiritual peace and fulfillment"
+                ],
+                "images": [
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlrdhrXONnfDlCc3YTLWYbl4jhOanwwBAyg&s",
+                    "https://images.bhaskarassets.com/web2images/521/2022/05/12/whatsapp-image-2022-05-12-at-53029-am_1652316082.jpg",
+                    "https://feeds.abplive.com/onecms/images/uploaded-images/2022/12/23/63fa7af51c765ae196c60724e54bdb821671785154777271_original.jpg?impolicy=abp_cdn&imwidth=320",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSzlhBV5whgHdu0uURr_S7BtYa0mD_FyZKg&s"
+                ],
+                "icon": "https://api.iconify.design/noto/droplet.svg?width=48&height=48",
+                "link": "/abhishek-booking"
+            },
+            {
+                "id": "jyotirlinga-tour",
+                "titleEn": "Jyotirlinga Tour",
+                "timeEn": "2-3 Days",
+                "descriptionEn": "Complete pilgrimage covering Ujjain, Omkareshwar, and Maheshwar.",
+                "detailsEn": [
+                    "Visit three sacred Jyotirlingas",
+                    "Comfortable accommodation and transport",
+                    "Pilgrims find immense satisfaction in this complete journey"
+                ],
+                "images": [
+                    "https://smttourpackages.com/admin/uploads/gallery/1728980097_9a831aa03d048cfae900.jpg",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTw6ye4peD7fg5wSSu8Y22h1KWa9S7UIHUgg&s",
+                    "https://indiadekho.com/wp-content/uploads/2024/04/Untitled-design-20.png",
+                    "https://newandolder.com/wp-content/uploads/2025/08/mahakal-lok-corridor.jpg",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrh-2gydqXW8EoNAhD8b5APJ-_72M4Iw-hQ&s",
+                    "https://travelaajkal.com/wp-content/uploads/2023/02/Mahakal-Corridor.png"
+                ],
+                "icon": "https://api.iconify.design/noto/om.svg?width=48&height=48",
+                "link": "/tour-packages"
+            }
+        ]
+    }
+}

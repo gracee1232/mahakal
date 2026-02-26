@@ -1,0 +1,84 @@
+{
+    "heroHeading": "खजुराहो",
+    "heroSubheading": "खजुराहो की शांति का अनुभव करें",
+    "heroText": "Famous for its UNESCO World Heritage group of temples with exquisite carvings.",
+    "sections": {
+        "royalTownTitle": "The Royal Town of Khajuraho",
+        "royalTownDesc": "Capital of the Chandela dynasty; site of famous medieval temples.",
+        "ritualsTitle": "अनुष्ठान और पूजा",
+        "ghatsTitle": "घाट",
+        "aboutTitle": "विवरण",
+        "aboutDesc": "Famous for its UNESCO World Heritage group of temples with exquisite carvings.",
+        "practicalTipsTitle": "व्यावहारिक सुझाव",
+        "practicalTipsDesc": "Planning your visit for a smooth experience.",
+        "templesTitle": "खजुराहो के मंदिर"
+    },
+    "cardLabels": {
+        "location": "स्थान",
+        "duration": "अवधि",
+        "timing": "समय",
+        "significance": "महत्व",
+        "architecture": "वास्तुकला",
+        "features": "विशेषताएं"
+    },
+    "videos": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/k1.mp4",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/k2.mp4",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/k3.crdownload"
+    ],
+    "overview": [
+        "Khajuraho is a famous historic town in the Chhatarpur district of Madhya Pradesh, India.",
+        "It is best known for its group of medieval Hindu and Jain temples famous for their stunning architecture.",
+        "The temples are recognized as a UNESCO World Heritage Site for their outstanding cultural significance."
+    ],
+    "city": {
+        "name": "Khajuraho",
+        "state": "Madhya Pradesh, India",
+        "significance": "Famous for its UNESCO World Heritage group of temples with exquisite carvings.",
+        "historicalImportance": "Capital of the Chandela dynasty; site of famous medieval temples."
+    },
+    "temples": [
+        {
+            "name": "Kandariya Mahadev Temple",
+            "description": "The largest and most ornate Hindu temple in Khajuraho.",
+            "location": "Western Group",
+            "architecture": "Nagara style",
+            "timings": "6:00 AM to 6:00 PM",
+            "features": "Detailed erotic sculptures"
+        }
+    ],
+    "rituals": [
+        {
+            "name": "Daily Temple Rituals",
+            "description": "Morning and evening prayers performed in all major temples.",
+            "location": "All temples",
+            "duration": "30-45 mins",
+            "timing": "6 AM / 6 PM",
+            "benefits": [
+                "Spiritual blessings"
+            ]
+        }
+    ],
+    "ghats": [
+        {
+            "name": "Ken River Bank",
+            "description": "Scenic riverbank near Khajuraho.",
+            "significance": "Peaceful natural spot",
+            "location": "Outskirts",
+            "timings": "6:00 AM to 7:00 PM",
+            "facilities": [
+                "Benches"
+            ]
+        }
+    ],
+    "practicalTips": {
+        "bestTimeToVisit": "Oct to Mar",
+        "dressCode": "Modest attire"
+    },
+    "nearbyAttractions": [
+        {
+            "name": "Panna National Park",
+            "distance": "25 km"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+  "video1": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/ab1.mp4",
+  "heroTitle": "VIP Darshan Booking",
+  "heroDescription": "Experience the divine VIP Darshan at Mahakaleshwar Temple in Ujjain. Enjoy priority access and personalized assistance for a peaceful and deep spiritual connection with Lord Mahakal.",
+  "pageTitle": "VIP Darshan Booking",
+  "formTitle": "Book VIP Darshan",
+  "name": "Full Name",
+  "email": "Email",
+  "phone": "Phone Number",
+  "temple": "Temple",
+  "darshanDate": "Preferred Darshan Date",
+  "darshanTime": "Preferred Darshan Time",
+  "numberOfPersons": "Number of Persons",
+  "city": "City",
+  "state": "State",
+  "country": "Country",
+  "pincode": "Pincode",
+  "submitButton": "Book VIP Darshan",
+  "placeholders": {
+    "name": "Enter your full name",
+    "email": "Enter your email",
+    "phone": "Enter your 10-digit phone number",
+    "temple": "Select a temple",
+    "numberOfPersons": "Enter number of persons",
+    "city": "Enter your city",
+    "state": "Enter your state",
+    "country": "Enter your country",
+    "pincode": "Enter your pincode"
+  },
+  "temples": [
+    "Mahakaleshwar Temple",
+    "Kal Bhairav Temple",
+    "Mangalnath Temple"
+  ],
+  "storyTitle": "The VIP Darshan Story",
+  "storyIntro": "Imagine entering the sacred corridors of Mahakaleshwar Temple with the first rays of dawn. While thousands of devotees wait outside, you walk peacefully through the dedicated VIP pathway, each step bringing you closer to the divine.",
+  "storyExperience": "VIP Darshan is not just a service—it's a spiritual journey carefully crafted for you. As you enter the sanctum, the resonance of bells, the fragrance of incense, and the divine presence of Lord Mahakal envelop you. Here, amidst the crowd, you find a moment of tranquility—a sacred space where your prayers reach directly to the divine.",
+  "storyLegacy": "For centuries, kings and saints have walked this very path. Today, this tradition continues for you. Each VIP Darshan is part of a legacy—a story that has been passed down through generations, where devotion transcends the boundaries of time and space.",
+  "benefitsTitle": "Benefits of VIP Darshan",
+  "benefits": [
+    "Skip long queues and enjoy fast-track entry",
+    "Priority access through dedicated VIP entrance",
+    "Exclusive darshan area inside the temple",
+    "Personalized assistance and guidance",
+    "Comfortable waiting area facilities",
+    "Flexible time slots",
+    "Ideal for families and groups",
+    "Safe and secure experience"
+  ],
+  "pricingTitle": "Pricing",
+  "pricing": [
+    "Mahakaleshwar Temple: ₹500 per person",
+    "Kal Bhairav Temple: ₹300 per person",
+    "Mangalnath Temple: ₹250 per person",
+    "Group Discount (10+ people): 15% off",
+    "Special festival pricing may apply"
+  ],
+  "pricingStory": "Rajesh Sharma, a Mumbai businessman, came with his family during Mahashivratri. He said, 'We chose VIP Darshan instead of standing in a 6-hour queue. This decision was priceless—our children got comfortable darshan, and we could also visit other temples in Ujjain throughout the day. It wasn't just time-saving, but a peaceful spiritual experience.'",
+  "timingsTitle": "Available Time Slots",
+  "timings": [
+    "Morning Slot: 6:00 AM - 12:00 PM",
+    "Afternoon Slot: 12:00 PM - 5:00 PM",
+    "Evening Slot: 5:00 PM - 9:00 PM",
+    "Special Aarti Time: 4:00 AM - 6:00 AM (Bhasm Aarti)",
+    "Please book your preferred time slot at least 24 hours in advance"
+  ],
+  "timingsStory": "Priya Patel, a Delhi teacher, chose the 6 AM slot. 'Entering the temple at sunrise was magical,' she shared. 'The cool morning breeze, birds chirping, and temple bells—everything combined to create a divine experience. The crowd was minimal, and we could meditate peacefully before Lord Mahakal. It was the most memorable spiritual experience of my life.'",
+  "guidelinesTitle": "Important Guidelines",
+  "guidelines": [
+    "Valid government-issued ID is mandatory",
+    "Wear traditional or modest attire",
+    "Arrive 30 minutes before your booking time",
+    "Mobile phones and cameras not allowed inside temple",
+    "Leather items (belts, shoes, bags) are prohibited",
+    "Children must be accompanied by adult supervision",
+    "Smoking and alcohol strictly prohibited in temple premises",
+    "Respect temple rules and traditions"
+  ],
+  "guidelinesStory": "Anita Verma, a Bangalore software engineer, shared her experience: 'I was visiting Ujjain for the first time and was worried about temple rules. But the VIP Darshan team guided me at every step. They told me what to wear, what to bring, and how to behave. With their help, I could confidently enter the temple and have a beautiful spiritual experience. This service not only saves time but also helps you do darshan the right way.'",
+  "processTitle": "Booking Process",
+  "process": [
+    "Fill online form and select your preferred date and time",
+    "Receive booking confirmation via email/SMS",
+    "Make payment online or at counter",
+    "Report to VIP counter with your booking ID and ID proof",
+    "Enjoy fast-track entry through dedicated VIP entrance",
+    "Complete darshan in exclusive darshan area"
+  ],
+  "faqsTitle": "Frequently Asked Questions",
+  "faqs": [
+    {
+      "question": "Can I cancel or reschedule my VIP Darshan?",
+      "answer": "Yes, you can cancel or reschedule up to 24 hours before your booking date."
+    },
+    {
+      "question": "Does VIP Darshan include Bhasm Aarti?",
+      "answer": "No, Bhasm Aarti requires separate booking. Please visit our Bhasm Aarti page."
+    },
+    {
+      "question": "How many people can book in one group?",
+      "answer": "You can book up to 50 people in one booking. For larger groups, please contact us."
+    },
+    {
+      "question": "Can foreign nationals book VIP Darshan?",
+      "answer": "Yes, foreign nationals can book VIP Darshan with valid passport."
+    }
+  ]
+}

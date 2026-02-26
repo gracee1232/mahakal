@@ -1,0 +1,301 @@
+{
+    "Hero": {
+        "title": "Ujjain Mahakal Darshan & Spiritual Tours",
+        "subtitle": "इंदौर से आपका विश्वसनीय तीर्थ यात्रा साथी",
+        "description": "उज्जैन महाकाल दर्शन और ओंकारेश्वर ज्योतिर्लिंग यात्रा के लिए आपका विश्वसनीय साथी। हम भस्म आरती बुकिंग, टैक्सी सेवा, होटल आरक्षण और संपूर्ण तीर्थ यात्रा सेवाएं प्रदान करते हैं।",
+        "btnBhasmAarti": "Bhasm Aarti Enquiry",
+        "btnAbhishek": "Abhishek Enquiry",
+        "btnVipDarshan": "VIP Darshan Enquiry"
+    },
+    "TourPackages": {
+        "titleHindi": "इंदौर से उज्जैन और ओंकारेश्वर टूर पैकेज",
+        "descriptionHindi": "हम इंदौर से किफायती और अनुकूलित उज्जैन और ओंकारेश्वर टूर पैकेज प्रदान करते हैं जिसमें टैक्सी सेवा, होटल बुकिंग, दर्शन व्यवस्था और गाइडेड विजिट शामिल हैं। हमारे साथ दोनों ज्योतिर्लिंग मंदिरों की सुगम और आध्यात्मिक यात्रा का आनंद लें।"
+    },
+    "CoreServices": {
+        "sectionTitle": "हमारी सेवाएं",
+        "sectionDesc": "आपकी आध्यात्मिक यात्रा के लिए संपूर्ण समाधान",
+        "services": [
+            {
+                "id": "bhasm-aarti",
+                "title": "भस्म आरती",
+                "descriptionHi": "महाकाल मंदिर में पवित्र प्रातःकालीन अनुष्ठान का अनुभव करें"
+            },
+            {
+                "id": "vip-darshan",
+                "title": "VIP दर्शन",
+                "descriptionHi": "प्राथमिकता दर्शन के साथ कतार से बचें"
+            },
+            {
+                "id": "abhishek",
+                "title": "अभिषेक पूजा",
+                "descriptionHi": "पुजारी मार्गदर्शन के साथ पवित्र अभिषेक समारोह करें"
+            },
+            {
+                "id": "tour-packages",
+                "title": "टूर पैकेज",
+                "descriptionHi": "आवास के साथ संपूर्ण तीर्थयात्रा पैकेज"
+            },
+            {
+                "id": "hotel",
+                "title": "होटल बुकिंग",
+                "descriptionHi": "मंदिर के पास आरामदायक आवास"
+            },
+            {
+                "id": "transport",
+                "title": "परिवहन",
+                "descriptionHi": "आपकी यात्रा के लिए विश्वसनीय वाहन सेवाएं"
+            }
+        ]
+    },
+    "CompletePilgrimageSolutions": {
+        "sectionTitle": "संपूर्ण तीर्थ यात्रा समाधान",
+        "sectionDesc": "बुकिंग से लेकर यात्रा तक - हम सब संभालते हैं",
+        "steps": [
+            {
+                "id": "choose-service",
+                "title": "सेवा चुनें",
+                "description": "अपनी आवश्यकता के अनुसार सेवा चुनें - दर्शन, पूजा, होटल, या टैक्सी"
+            },
+            {
+                "id": "fill-form",
+                "title": "फॉर्म भरें",
+                "description": "सरल फॉर्म भरें। आपकी जानकारी तुरंत हमारे सिस्टम में अपडेट हो जाएगी"
+            },
+            {
+                "id": "make-payment",
+                "title": "भुगतान करें",
+                "description": "QR कोड स्कैन करें और सुरक्षित भुगतान करें। विस्तृत योजना तुरंत मिलेगी"
+            },
+            {
+                "id": "we-handle-rest",
+                "title": "हम संभालेंगे",
+                "description": "हमारी टीम आपसे संपर्क करेगी और पूरी यात्रा में मार्गदर्शन देगी"
+            }
+        ]
+    },
+    "MahakalTourPackages": {
+        "titleHindi": "उज्जैन और ओंकारेश्वर में होटल बुकिंग",
+        "descriptionHindi": "उज्जैन और ओंकारेश्वर में बजट से लेकर प्रीमियम आवास तक सर्वोत्तम होटल बुकिंग विकल्प खोजें। हम शांतिपूर्ण तीर्थयात्रा अनुभव के लिए मंदिरों के पास आरामदायक ठहरने की सुविधा सुनिश्चित करते हैं।",
+        "locationLabel": "स्थान:",
+        "perPersonLabel": "प्रति व्यक्ति",
+        "highlightsLabel": "मुख्य आकर्षण:"
+    },
+    "VehiclesPackages": {
+        "titleHindi": "इंदौर से उज्जैन टैक्सी और कार रेंटल सेवाएं",
+        "descriptionHindi": "हमारी विश्वसनीय इंदौर से उज्जैन टैक्सी और कार रेंटल सेवाएं आपकी यात्रा को आरामदायक और परेशानी मुक्त बनाती हैं। किफायती कीमतों पर वन-वे या राउंड ट्रिप के लिए कारों की विस्तृत श्रृंखला में से चुनें।",
+        "persons": "व्यक्ति",
+        "off": "छूट"
+    },
+    "PoojaBooking": {
+        "titleHindi": "उज्जैन महाकाल मंदिर में भस्म आरती पूजा बुकिंग",
+        "descriptionHindi": "हम श्री महाकालेश्वर ज्योतिर्लिंग मंदिर में विश्वसनीय भस्म आरती बुकिंग सेवाएं प्रदान करते हैं। लंबी कतारों को छोड़ें और हमारे समर्थन से पवित्र प्रातःकालीन अनुष्ठान के लिए अपनी प्रविष्टि सुरक्षित करें।",
+        "titles": {
+            "Kaal Sarp Dosh Nivaran": "काल सर्प दोष निवारण",
+            "Mangal Dosh Nivaran Pooja": "मंगल दोष निवारण पूजा",
+            "Pitra Dosh Nivaran": "पितृ दोष निवारण",
+            "Naadi Dosh Nivaran": "नाड़ी दोष निवारण",
+            "Shani Shanti Pooja": "शनि शांति पूजा",
+            "Rahu Shanti Pooja": "राहु शांति पूजा",
+            "Ketu Shanti Pooja": "केतु शांति पूजा",
+            "Grah Dosh Nivaran": "ग्रह दोष निवारण",
+            "Navagraha Shanti Pooja": "नवग्रह शांति पूजा",
+            "Rudrabhishek Pooja": "रुद्राभिषेक पूजा",
+            "Maha Mrityunjaya Jaap": "महा मृत्युंजय जाप"
+        },
+        "subtitles": {
+            "To remove obstacles caused by Kaal Sarp Yoga": "काल सर्प योग के कारण उत्पन्न बाधाओं को दूर करने के लिए",
+            "To mitigate the malefic effects of Mars in the birth chart": "जन्म कुंडली में मंगल के दुष्प्रभावों को कम करने के लिए",
+            "To appease ancestors and remove ancestral curses": "पूर्वजों को प्रसन्न करने और पैतृक श्राप को दूर करने के लिए",
+            "To resolve compatibility issues in marriage": "विवाह में अनुकूलता समस्याओं को हल करने के लिए",
+            "To pacify the effects of Saturn's influence": "शनि के प्रभाव को शांत करने के लिए",
+            "To mitigate the malefic effects of Rahu": "राहु के दुष्प्रभावों को कम करने के लिए",
+            "To neutralize Ketu's malefic effects": "केतु के दुष्प्रभावों को निष्क्रिय करने के लिए",
+            "To balance all planetary influences": "सभी ग्रहों के प्रभाव को संतुलित करने के लिए",
+            "To pacify all nine planets for overall well-being": "समग्र कल्याण के लिए सभी नौ ग्रहों को शांत करने के लिए",
+            "To invoke Lord Shiva's blessings for health and prosperity": "स्वास्थ्य और समृद्धि के लिए भगवान शिव का आशीर्वाद प्राप्त करने के लिए",
+            "To overcome fear of death and serious health issues": "मृत्यु के भय और गंभीर स्वास्थ्य समस्याओं को दूर करने के लिए",
+            "To balance all nine planetary influences": "सभी नौ ग्रहों के प्रभाव को संतुलित करने के लिए",
+            "For divine blessings, health, and obstacle removal": "दिव्य आशीर्वाद, स्वास्थ्य और बाधा निवारण के लिए",
+            "For health, longevity, and protection from untimely death": "स्वास्थ्य, दीर्घायु और असमय मृत्यु से सुरक्षा के लिए"
+        }
+    },
+    "ThingsToDoInUjjain": {
+        "titleHindi": "उज्जैन में करने योग्य चीजें",
+        "descriptionHindi": "दिव्य भस्म आरती में भाग लेने से लेकर प्राचीन मंदिरों की यात्रा, घाटों की खोज और स्थानीय संस्कृति का अनुभव करने तक, उज्जैन में करने के लिए कई चीजें हैं जो आपकी यात्रा को यादगार बनाती हैं।",
+        "locationLabel": "स्थान:",
+        "timingsLabel": "समय:",
+        "entryFeeLabel": "प्रवेश शुल्क:",
+        "categoryLabel": "श्रेणी:",
+        "ratingLabel": "रेटिंग:",
+        "names": {
+            "Mahakaleshwar Temple": "महाकालेश्वर मंदिर",
+            "Ram Ghat": "राम घाट",
+            "Kal Bhairav Temple": "काल भैरव मंदिर",
+            "Jantar Mantar": "जंतर मंतर",
+            "Mangalnath Temple": "मंगलनाथ मंदिर",
+            "Kaliadeh Palace": "कालियादेह पैलेस"
+        },
+        "descriptions": {
+            "One of the 12 Jyotirlingas in India, dedicated to Lord Shiva": "भारत के 12 ज्योतिर्लिंगों में से एक, भगवान शिव को समर्पित",
+            "Famous ghat on the banks of Shipra River where sacred rituals are performed": "शिप्रा नदी के तट पर प्रसिद्ध घाट जहां पवित्र अनुष्ठान किए जाते हैं",
+            "Ancient temple dedicated to Kal Bhairav, the guardian deity of Ujjain": "उज्जैन के संरक्षक देवता काल भैरव को समर्पित प्राचीन मंदिर",
+            "Historic astronomical observatory built by Maharaja Jai Singh II": "महाराजा जय सिंह द्वितीय द्वारा निर्मित ऐतिहासिक खगोलीय वेधशाला",
+            "Temple dedicated to Mars (Mangal), considered the birthplace of Mars": "मंगल ग्रह को समर्पित मंदिर, मंगल का जन्मस्थान माना जाता है",
+            "Persian architecture palace located on the banks of Shipra River": "शिप्रा नदी के तट पर स्थित फारसी वास्तुकला का महल"
+        }
+    },
+    "PlacesNearUjjain": {
+        "titleHindi": "उज्जैन के पास स्थान",
+        "descriptionHindi": "उज्जैन के पास ओंकारेश्वर, मांडू, महेश्वर और इंदौर जैसे सुंदर स्थानों की खोज करें। ये गंतव्य आपकी आध्यात्मिक और सांस्कृतिक यात्रा को बढ़ाने के लिए एकदम सही हैं।",
+        "kmAway": "किमी दूर",
+        "names": {
+            "Omkareshwar": "ओंकारेश्वर",
+            "Indore": "इंदौर",
+            "Mandu": "मांडू",
+            "Maheshwar": "महेश्वर",
+            "Bhopal": "भोपाल"
+        }
+    },
+    "Awards": {
+        "titleHindi": "इंदौर में उज्जैन महाकाल टूर एंड ट्रैवल्स को क्यों चुनें",
+        "descriptionHindi": "वर्षों के अनुभव, किफायती पैकेज, 24/7 सहायता और टैक्सी से लेकर मंदिर बुकिंग तक की संपूर्ण सेवाओं के साथ, हम इंदौर में सबसे विश्वसनीय उज्जैन और ओंकारेश्वर टूर एजेंसी हैं।"
+    },
+    "TrustIndicators": {
+        "sectionTitle": "हमें क्यों चुनें",
+        "sectionDesc": "आपकी आध्यात्मिक यात्रा के लिए विश्वसनीय साथी",
+        "stats": [
+            {
+                "id": "experience",
+                "label": "वर्षों का अनुभव"
+            },
+            {
+                "id": "pilgrims",
+                "label": "संतुष्ट यात्री"
+            },
+            {
+                "id": "rating",
+                "label": "रेटिंग"
+            },
+            {
+                "id": "support",
+                "label": "सहायता"
+            }
+        ]
+    },
+    "Contact": {
+        "titleHindi": "संपर्क करें",
+        "descriptionHindi": "अनुकूलित यात्रा योजनाओं और मंदिर यात्रा सहायता के लिए संपर्क करें।",
+        "addressLabel": "पता",
+        "addressText": "स्काई अर्थ कॉर्पोरेट पार्क, 1206 ई, शालीमार टाउनशिप के सामने, इंदौर, मध्य प्रदेश 452010",
+        "phoneLabel": "फ़ोन",
+        "phoneText": "+91 9111452099",
+        "emailLabel": "ईमेल",
+        "emailText": "info@ujjainmahakal.com",
+        "formName": "नाम",
+        "formNamePlaceholder": "आपका नाम",
+        "formNameError": "नाम आवश्यक है",
+        "formEmail": "ईमेल",
+        "formEmailPlaceholder": "आपका ईमेल",
+        "formPhone": "फ़ोन",
+        "formPhonePlaceholder": "आपका फ़ोन नंबर",
+        "formPhoneError": "अमान्य फ़ोन नंबर",
+        "formSubject": "विषय",
+        "formSubjectPlaceholder": "विषय",
+        "formMessage": "संदेश",
+        "formMessagePlaceholder": "आपका संदेश",
+        "formSubmit": "संदेश भेजें",
+        "formSuccess": "फ़ॉर्म सफलतापूर्वक सबमिट किया गया!"
+    },
+    "QuickBookingBar": {
+        "title": "त्वरित बुकिंग",
+        "description": "अपनी आध्यात्मिक यात्रा की योजना बनाएं",
+        "dateLabel": "तारीख",
+        "dateError": "कृपया एक तारीख चुनें",
+        "futureDateError": "कृपया भविष्य की तारीख चुनें",
+        "guestLabel": "मेहमान",
+        "guestError": "मेहमानों की संख्या 1 से 50 के बीच होनी चाहिए",
+        "serviceLabel": "सेवा",
+        "serviceError": "कृपया सेवा का प्रकार चुनें",
+        "searchButton": "खोजें",
+        "services": [
+            {
+                "value": "",
+                "label": "सेवा चुनें"
+            },
+            {
+                "value": "bhasm-aarti",
+                "label": "भस्म आरती"
+            },
+            {
+                "value": "vip-darshan",
+                "label": "VIP दर्शन"
+            },
+            {
+                "value": "abhishek-puja",
+                "label": "अभिषेक पूजा"
+            },
+            {
+                "value": "tour-package",
+                "label": "टूर पैकेज"
+            },
+            {
+                "value": "hotel",
+                "label": "होटल"
+            },
+            {
+                "value": "transport",
+                "label": "परिवहन"
+            }
+        ]
+    },
+    "SignatureExperiences": {
+        "sectionTitle": "विशेष अनुभव",
+        "sectionDesc": "जो आपको अवश्य करना चाहिए",
+        "experiences": [
+            {
+                "id": "bhasm-aarti",
+                "title": "भस्म आरती दर्शन",
+                "time": "प्रातः 4:00 बजे",
+                "description": "महाकाल की पवित्र भस्म आरती में शामिल हों। यह अनुभव जीवन भर याद रहेगा।",
+                "details": [
+                    "प्रतिदिन प्रातः 4 बजे पवित्र अनुष्ठान",
+                    "भगवान शिव को भस्म से सजाया जाता है",
+                    "हजारों भक्त इस दिव्य अनुभव के साक्षी बनते हैं"
+                ]
+            },
+            {
+                "id": "vip-darshan",
+                "title": "VIP दर्शन",
+                "time": "बिना प्रतीक्षा",
+                "description": "विशेष VIP दर्शन से भगवान महाकाल के सामीप्य का अनुभव करें।",
+                "details": [
+                    "कतार में प्रतीक्षा से बचें",
+                    "विशेष मार्गदर्शन और सहायता",
+                    "शांतिपूर्ण और व्यक्तिगत दर्शन अनुभव"
+                ]
+            },
+            {
+                "id": "abhishek-puja",
+                "title": "अभिषेक पूजा",
+                "time": "विशेष अनुष्ठान",
+                "description": "महाकाल का विशेष अभिषेक करें और आशीर्वाद प्राप्त करें।",
+                "details": [
+                    "पुजारी के मार्गदर्शन में पवित्र अनुष्ठान",
+                    "दूध, शहद और गंगाजल से अभिषेक",
+                    "भक्तों को आध्यात्मिक शांति और संतुष्टि मिलती है"
+                ]
+            },
+            {
+                "id": "jyotirlinga-tour",
+                "title": "ज्योतिर्लिंग यात्रा",
+                "time": "2-3 दिन",
+                "description": "उज्जैन, ओंकारेश्वर और महेश्वर की संपूर्ण यात्रा।",
+                "details": [
+                    "तीन पवित्र ज्योतिर्लिंगों के दर्शन",
+                    "आरामदायक आवास और परिवहन",
+                    "यात्री इस संपूर्ण तीर्थ यात्रा से अत्यधिक संतुष्ट होते हैं"
+                ]
+            }
+        ]
+    }
+}

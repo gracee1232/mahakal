@@ -1,0 +1,392 @@
+{
+    "heroSection": {
+        "title": "उज्जैन के आस-पास के स्थान",
+        "subtitle": "पवित्र शहर के आस-पास के दिव्य और ऐतिहासिक स्थलों का अन्वेषण करें"
+    },
+    "filterOptions": [
+        "सभी",
+        "मंदिर",
+        "शहर",
+        "इतिहास",
+        "प्रकृति"
+    ],
+    "placesNearUjjain": [
+        {
+            "id": 1,
+            "name": "महेश्वर",
+            "slug": "mahakaleshwar-temple-0",
+            "location": "महेश्वर",
+            "distance_from_ujjain_km": 130,
+            "travel_time": "सड़क मार्ग से 2.5-3 घंटे",
+            "description": "नर्मदा नदी के तट पर स्थित ऐतिहासिक शहर, जो अहिल्या किले और हथकरघा साड़ियों के लिए जाना जाता है।",
+            "detailed_description": "महेश्वर एक शांत शहर है जो नर्मदा नदी के किनारे अपने घाटों, राजसी अहिल्या किले और अपनी प्रसिद्ध महेश्वरी साड़ियों के लिए प्रसिद्ध है। यह शहर होलकर रानी अहिल्याबाई की राजधानी था।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/placesNearUjjain/Maheshwar.webp",
+            "tags": [
+                "किला",
+                "नदी",
+                "सांस्कृतिक",
+                "खरीददारी"
+            ],
+            "best_time_to_visit": "October to March",
+            "timings": "8:00 AM to 6:00 PM",
+            "nearby_attractions": [
+                "Narmada Ghats",
+                "Rajwada",
+                "Baneshwar Temple"
+            ],
+            "activities": [
+                "Boat ride",
+                "Saree shopping",
+                "Fort visit",
+                "Photography"
+            ],
+            "accommodation": [
+                "Heritage hotels",
+                "Budget stays",
+                "Homestays"
+            ],
+            "website": "https://www.mptourism.com/destination-maheshwar.php",
+            "entry_fees": "निःशुल्क",
+            "famous_food": [
+                "Maheshwari Thali",
+                "Local sweets"
+            ],
+            "festivals": [
+                "Narmada Jayanti",
+                "Ahilya Utsav"
+            ],
+            "coordinates": {
+                "latitude": 22.1759,
+                "longitude": 75.5872
+            }
+        },
+        {
+            "id": 2,
+            "name": "इंदौर",
+            "slug": "indore-1",
+            "location": "इंदौर",
+            "distance_from_ujjain_km": 55,
+            "travel_time": "सड़क मार्ग से 1 से 1.5 घंटे",
+            "description": "मध्य प्रदेश की वाणिज्यिक राजधानी, जो भोजन, खरीदारी और राजवाड़ा पैलेस के लिए जानी जाती है।",
+            "detailed_description": "इंदौर मध्य प्रदेश का सबसे बड़ा शहर है, जो अपने जीवंत स्ट्रीट फूड संस्कृति, ऐतिहासिक राजवाड़ा पैलेस और हलचल भरे बाजारों के लिए प्रसिद्ध है। यह राज्य के वाणिज्यिक केंद्र के रूप में कार्य करता है।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/placesNearUjjain/Indore.webp",
+            "tags": [
+                "शहर",
+                "खरीददारी",
+                "महल",
+                "भोजन"
+            ],
+            "best_time_to_visit": "October to February",
+            "timings": "Varies by attraction (typically 10AM-6PM)",
+            "nearby_attractions": [
+                "Sarafa Bazaar",
+                "Chappan Dukan",
+                "Kancha Mandir"
+            ],
+            "activities": [
+                "Food tour",
+                "Shopping",
+                "Palace visit",
+                "Museum visit"
+            ],
+            "famous_food": [
+                "Poha-Jalebi",
+                "Dal Bafla",
+                "Khopra Patties"
+            ],
+            "accommodation": [
+                "Luxury hotels",
+                "Budget hotels",
+                "Guest houses"
+            ],
+            "website": "https://indore.nic.in/en/tourism/",
+            "entry_fees": "Varies by attraction",
+            "festivals": [
+                "Ahilya Utsav",
+                "Anant Chaturdashi"
+            ],
+            "coordinates": {
+                "latitude": 22.7196,
+                "longitude": 75.8577
+            }
+        },
+        {
+            "id": 3,
+            "name": "ओंकारेश्वर",
+            "slug": "omkareshwar-2",
+            "location": "ओंकारेश्वर",
+            "distance_from_ujjain_km": 140,
+            "travel_time": "सड़क मार्ग से 3 घंटे",
+            "description": "हिंदू प्रतीक \"ओम\" के आकार का पवित्र द्वीप, जो एक अन्य ज्योतिर्लिंग मंदिर के लिए प्रसिद्ध है।",
+            "detailed_description": "ओंकारेश्वर शिव के 12 ज्योतिर्लिंग तीर्थों में से एक है, जो पवित्र \"ओम\" प्रतीक के आकार वाली नर्मदा नदी में एक द्वीप पर स्थित है। मंदिर परिसर का बहुत आध्यात्मिक महत्व है।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/placesNearUjjain/omkareshwar.webp",
+            "tags": [
+                "मंदिर",
+                "द्वीप",
+                "ज्योतिर्लिंग"
+            ],
+            "best_time_to_visit": "October to March",
+            "timings": "5:00 AM to 9:00 PM",
+            "aarti_timings": "5:30 AM to 7:30 PM",
+            "nearby_attractions": [
+                "Mamleshwar Temple",
+                "Siddhanath Temple",
+                "Narmada Ghats"
+            ],
+            "activities": [
+                "Puja",
+                "Bathing in Narmada",
+                "Photography",
+                "Meditation"
+            ],
+            "accommodation": [
+                "Dharamshalas",
+                "Hotels",
+                "Guest houses"
+            ],
+            "website": "https://www.shriomkareshwar.org/",
+            "entry_fees": "निःशुल्क",
+            "famous_food": [
+                "Local vegetarian dishes"
+            ],
+            "festivals": [
+                "Mahashivratri",
+                "Shravan Mela"
+            ],
+            "coordinates": {
+                "latitude": 22.2456,
+                "longitude": 76.1506
+            }
+        },
+        {
+            "id": 4,
+            "name": "मांडू",
+            "slug": "mandu-3",
+            "location": "मांडू",
+            "distance_from_ujjain_km": 155,
+            "travel_time": "सड़क मार्ग से 3.5 घंटे",
+            "description": "अफगान वास्तुकला, झीलों और रानी रूपमती जैसी रोमांटिक कहानियों वाला ऐतिहासिक किला शहर।",
+            "detailed_description": "मांडू एक खंडहर शहर है जो अपनी अफगान वास्तुकला, बाज बहादुर और रानी रूपमती की रोमांटिक कहानियों और जहाज महल और हिंडोला महल जैसी प्रभावशाली संरचनाओं के लिए जाना जाता है।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/placesNearUjjain/Mandu.webp",
+            "tags": [
+                "इतिहास",
+                "किला",
+                "वास्तुकला",
+                "रोमांटिक"
+            ],
+            "best_time_to_visit": "October to February",
+            "timings": "8:00 AM to 6:00 PM",
+            "nearby_attractions": [
+                "Jahaz Mahal",
+                "Hindola Mahal",
+                "Rani Roopmati Pavilion"
+            ],
+            "activities": [
+                "Heritage walk",
+                "Photography",
+                "History exploration"
+            ],
+            "accommodation": [
+                "MPTDC resort",
+                "Heritage hotels",
+                "Budget stays"
+            ],
+            "website": "https://www.mptourism.com/destination-mandu.php",
+            "entry_fees": "Varies by monument",
+            "famous_food": [
+                "Dal Paniya"
+            ],
+            "festivals": [
+                "Mandu Festival"
+            ],
+            "coordinates": {
+                "latitude": 22.3667,
+                "longitude": 75.3833
+            }
+        },
+        {
+            "id": 5,
+            "name": "कालका माता",
+            "slug": "kalka-mata-4",
+            "location": "देवास",
+            "distance_from_ujjain_km": 35,
+            "travel_time": "सड़क मार्ग से 45 मिनट",
+            "description": "देवी कालका को समर्पित पहाड़ी की चोटी पर स्थित मंदिर, जहां से शहर का सुंदर दृश्य दिखाई देता है।",
+            "detailed_description": "कालका माता मंदिर देवास में एक पहाड़ी की चोटी पर स्थित है, जो शहर के मनोरम दृश्य पेश करता है। यह एक लोकप्रिय तीर्थ स्थल है, विशेष रूप से नवरात्रि त्योहार के दौरान।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/placesNearUjjain/KalkaMata.webp",
+            "tags": [
+                "मंदिर",
+                "पहाड़ी की चोटी",
+                "व्यूपॉइंट"
+            ],
+            "best_time_to_visit": "All year round (especially during Navratri)",
+            "timings": "6:00 AM to 8:00 PM",
+            "nearby_attractions": [
+                "Tukojirao Palace",
+                "Chamunda Mata Temple"
+            ],
+            "activities": [
+                "Trekking",
+                "Pilgrimage",
+                "Photography"
+            ],
+            "accommodation": [
+                "Dharamshalas",
+                "Hotels in Dewas"
+            ],
+            "website": "https://dewas.nic.in/en/tourist-places/",
+            "entry_fees": "निःशुल्क",
+            "famous_food": [
+                "Local street food"
+            ],
+            "festivals": [
+                "Navratri"
+            ],
+            "coordinates": {
+                "latitude": 22.9659,
+                "longitude": 76.0553
+            }
+        },
+        {
+            "id": 6,
+            "name": "सांदीपनि आश्रम",
+            "slug": "sandipani-ashram-5",
+            "location": "उज्जैन",
+            "distance_from_ujjain_km": 2,
+            "travel_time": "सड़क मार्ग से 10 मिनट",
+            "description": "प्राचीन गुरुकुल जहां भगवान कृष्ण, बलराम और सुदामा ने अध्ययन किया था।",
+            "detailed_description": "माना जाता है कि यह प्राचीन आश्रम वह स्थान है जहां भगवान कृष्ण, उनके भाई बलराम और मित्र सुदामा ने गुरु सांदीपनि से शिक्षा प्राप्त की थी। स्थल पर पुरातात्विक अवशेष और मंदिर हैं।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/placesNearUjjain/Sandipani.webp",
+            "tags": [
+                "आश्रम",
+                "आध्यात्मिक",
+                "पौराणिक कथा"
+            ],
+            "entry_fees": "निःशुल्क",
+            "timings": "6:00 AM to 8:00 PM",
+            "nearby_attractions": [
+                "Gomti Kund",
+                "Ankapata"
+            ],
+            "activities": [
+                "Meditation",
+                "Pilgrimage",
+                "History exploration"
+            ],
+            "accommodation": [
+                "Nearby Ujjain hotels"
+            ],
+            "website": "https://ujjain.nic.in/en/tourist-place/sandipani/",
+            "famous_food": [
+                "Local vegetarian dishes"
+            ],
+            "festivals": [
+                "Krishna Janmashtami"
+            ],
+            "coordinates": {
+                "latitude": 23.1828,
+                "longitude": 75.7772
+            }
+        },
+        {
+            "id": 7,
+            "name": "चिंतामन गणेश",
+            "slug": "chintaman-ganesh-6",
+            "location": "उज्जैन",
+            "distance_from_ujjain_km": 7,
+            "travel_time": "सड़क मार्ग से 15 मिनट",
+            "description": "भगवान गणेश को समर्पित प्राचीन मंदिर, जो चिंताओं को हल करने के लिए जाना जाता है।",
+            "detailed_description": "भारत के सबसे पुराने गणेश मंदिरों में से एक, चिंतामन गणेश को भक्तों की चिंताओं को दूर करने वाला माना जाता है। मंदिर में सुंदर वास्तुकला और शांतिपूर्ण वातावरण है।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/placesNearUjjain/Chintaman.webp",
+            "tags": [
+                "मंदिर",
+                "शांतिपूर्ण",
+                "गणेश"
+            ],
+            "best_time_to_visit": "All year round (especially on Ganesh Chaturthi)",
+            "timings": "5:00 AM to 9:00 PM",
+            "aarti_timings": [
+                "7:00 AM",
+                "7:00 PM"
+            ],
+            "nearby_attractions": [
+                "Shipra River",
+                "Ram Ghat"
+            ],
+            "activities": [
+                "Puja",
+                "Meditation",
+                "Photography"
+            ],
+            "accommodation": [
+                "Nearby Ujjain hotels"
+            ],
+            "website": "https://chintamanganesh.com/",
+            "entry_fees": "निःशुल्क",
+            "famous_food": [
+                "Local sweets"
+            ],
+            "festivals": [
+                "Ganesh Chaturthi",
+                "Tila Sankashti"
+            ],
+            "coordinates": {
+                "latitude": 23.2,
+                "longitude": 75.8
+            }
+        },
+        {
+            "id": 8,
+            "name": "भोपाल",
+            "slug": "bhopal-7",
+            "location": "भोपाल",
+            "distance_from_ujjain_km": 190,
+            "travel_time": "सड़क मार्ग से 4 घंटे",
+            "description": "मध्य प्रदेश की राजधानी, जो अपनी झीलों, भारत भवन और समृद्ध नवाबी विरासत के लिए प्रसिद्ध है।",
+            "detailed_description": "झील का शहर भोपाल, प्राकृतिक सुंदरता, समृद्ध इतिहास और आधुनिक विकास का एक संयोजन है। यह হিন্দু और इस्लामी वास्तुकला, संग्रहालयों और सुंदर अप्पर और लोअर झीलों के मिश्रण के लिए जाना जाता है।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/placesNearUjjain/Bhopal.webp",
+            "tags": [
+                "शहर",
+                "झीलें",
+                "संग्रहालय",
+                "विरासत"
+            ],
+            "best_time_to_visit": "October to February",
+            "timings": "Varies by attraction (typically 10AM-6PM)",
+            "nearby_attractions": [
+                "Van Vihar",
+                "Taj-ul-Masajid",
+                "Shaukat Mahal"
+            ],
+            "activities": [
+                "Boat ride",
+                "Museum visit",
+                "Heritage walk",
+                "Shopping"
+            ],
+            "famous_food": [
+                "Bhopali Gosht Korma",
+                "Poha",
+                "Seekh Kebabs"
+            ],
+            "accommodation": [
+                "Luxury hotels",
+                "Budget hotels",
+                "Heritage stays"
+            ],
+            "website": "https://www.mptourism.com/destination-bhopal.php",
+            "coordinates": {
+                "latitude": 23.2599,
+                "longitude": 77.4126
+            },
+            "entry_fees": "Varies by attraction",
+            "aarti_timings": "Not applicable",
+            "weather": "Hazy sunshine, 93°F (34°C)"
+        }
+    ],
+    "cardLabels": {
+        "distance": "दूरी",
+        "travelTime": "यात्रा का समय",
+        "details": "विवरण देखें"
+    }
+}

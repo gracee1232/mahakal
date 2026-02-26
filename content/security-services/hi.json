@@ -1,0 +1,94 @@
+{
+  "title": "सुरक्षा सेवाएँ",
+  "enquireNow": "अभी पूछताछ करें",
+  "services": [
+    {
+      "name": "एलीट सेलिब्रिटी बॉडीगार्ड",
+      "inclusions": [
+        "लीड प्रोटेक्शन एजेंट",
+        "सुरक्षित परिवहन",
+        "इवेंट सुरक्षा समन्वय",
+        "24/7 निगरानी"
+      ],
+      "slug": "elite-celebrity-bodyguard-0",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/eliteVipProtection.webp"
+    },
+    {
+      "name": "इवेंट सुरक्षा",
+      "inclusions": [
+        "इवेंट सुरक्षा टीम",
+        "स्थानीय अधिकारियों के साथ समन्वय",
+        "एक्सेस कंट्रोल सिस्टम",
+        "इवेंट से पहले जोखिम मूल्यांकन"
+      ],
+      "slug": "event-security-1",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityEventSecurity.webp"
+    },
+    {
+      "name": "सुरक्षित परिवहन",
+      "inclusions": [
+        "प्रशिक्षित सुरक्षा ड्राइवर",
+        "शामिल किलोमीटर के लिए ईंधन",
+        "टोल टैक्स और पार्किंग",
+        "रियल-टाइम रूट निगरानी"
+      ],
+      "slug": "vip-armored-transport-2",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/vipArmoredTransport.webp"
+    },
+    {
+      "name": "आवासीय सुरक्षा",
+      "inclusions": [
+        "ऑन-साइट सुरक्षा टीम",
+        "दैनिक परिधि जांच",
+        "अलार्म सिस्टम रखरखाव",
+        "आपातकालीन प्रतिक्रिया समन्वय"
+      ],
+      "slug": "residential-security-3",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityResidentialProtection.webp"
+    },
+    {
+      "name": "टूर सुरक्षा",
+      "inclusions": [
+        "टूर सुरक्षा टीम",
+        "अग्रिम स्थल स्काउटिंग",
+        "सुरक्षित परिवहन समन्वय",
+        "स्थानीय अधिकारी संपर्क"
+      ],
+      "slug": "celebrity-tour-protection-4",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityTourProtection.webp"
+    },
+    {
+      "name": "महिला बॉडीगार्ड",
+      "inclusions": [
+        "लीड महिला रक्षा एजेंट",
+        "सुरक्षित परिवहन",
+        "इवेंट सुरक्षा समन्वय",
+        "गोपनीयता-केंद्रित सुरक्षा"
+      ],
+      "slug": "female-bodyguard-5",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/discreetFemaleVIPProtection.webp"
+    },
+    {
+      "name": "डिजिटल सुरक्षा",
+      "inclusions": [
+        "साइबर खतरे की निगरानी",
+        "डिजिटल सुरक्षा सेटअप",
+        "सोशल मीडिया सुरक्षा",
+        "घटना प्रतिक्रिया टीम"
+      ],
+      "slug": "celebrity-cyber-protection-6",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityCyberProtection.webp"
+    },
+    {
+      "name": "पापाराज़ी प्रबंधन",
+      "inclusions": [
+        "मीडिया संपर्क टीम",
+        "भीड़ नियंत्रण उपाय",
+        "सुरक्षित प्रवेश/निकास योजना",
+        "गोपनीयता परामर्श"
+      ],
+      "slug": "paparazzi-management-7",
+      "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/securityServices/celebrityPaparazziProtection.webp"
+    }
+  ]
+}

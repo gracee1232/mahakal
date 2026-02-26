@@ -1,0 +1,118 @@
+{
+    "video1": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/ab1.mp4",
+    "video2": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/ab2.mp4",
+    "video3": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/ab3.mp4",
+    "heroTitle": "Abhishek Booking",
+    "heroDescription": "Participate in the sacred Abhishek ritual at Mahakaleshwar Temple. A divine experience of bathing the Shiva Lingam with sacred offerings to invoke the blessings of Lord Mahakal.",
+    "soulOfMahakalTitle": "Sacred Essence of Mahakal",
+    "locationTitle": "Location",
+    "timingsTitle": "Timings",
+    "procedureTitle": "Procedure",
+    "guidelinesTitle": "Guidelines",
+    "ritualStepsTitle": "Ritual Steps",
+    "spiritualBenefitsTitle": "Spiritual Benefits",
+    "tabs": {
+        "dressCode": "Dress Code",
+        "genderRestrictions": "Gender Restrictions",
+        "bookingInfo": "Booking Info",
+        "offerings": "Offerings"
+    },
+    "overview": [
+        "Abhishek is a sacred bathing ritual performed on the Shiva Lingam at Mahakaleshwar Temple.",
+        "The ritual includes pouring water, milk, honey, curd, and other sacred liquids.",
+        "It symbolizes purification, blessings, and renewal of spiritual energy.",
+        "Abhishek is often done with personal participation by devotees through prior booking.",
+        "The ceremony is accompanied by Vedic hymns and chanting to elevate the spiritual ambiance.",
+        "Booking is required as participation slots are limited to maintain sanctity.",
+        "It is considered an auspicious ritual to invoke Lord Shiva's blessings.",
+        "The ritual highlights the devotee's devotion and reverence for Mahakal."
+    ],
+    "location": [
+        "Temple Name: Mahakaleshwar Jyotirlinga",
+        "City: Ujjain",
+        "State: Madhya Pradesh",
+        "Country: India",
+        "Nearest Railway Station: Ujjain Junction (3 km)",
+        "Nearest Airport: Devi Ahilya Bai Holkar Airport, Indore"
+    ],
+    "timing": [
+        "Ritual Start: 5:00 AM",
+        "Reporting Time: 4:30 AM",
+        "Duration: 1 to 1.5 hours",
+        "Brahma Muhurat: Approximately 3:30 AM to 5:30 AM",
+        "Gate Opening Time: 4:00 AM",
+        "Ideal Arrival Time: Between 4:15 AM and 4:30 AM"
+    ],
+    "procedure": [
+        "Ritual starts early morning, lasts 1 to 1.5 hours.",
+        "Devotees arrive with booking confirmation.",
+        "Priests clean the Lingam.",
+        "Milk, honey, curd, ghee, and water poured.",
+        "Vedic mantras chanted.",
+        "Lingam decorated with flowers and sandalwood."
+    ],
+    "guidelines": [
+        "Advance booking is mandatory for participation.",
+        "Mobile phones and cameras are not allowed inside sanctum.",
+        "Follow traditional Indian dress code strictly.",
+        "Arrive at the temple gate 30 minutes before scheduled time for security check.",
+        "Women are restricted from entering the inner sanctum during the ritual.",
+        "Carry valid government-issued ID for verification.",
+        "Maintain silence and decorum throughout the ritual.",
+        "Do not bring food or drinks inside the temple premises."
+    ],
+    "ritualSteps": [
+        "Devotees assemble at designated area in early morning.",
+        "Priests perform preliminary cleaning and preparation of Shiva Lingam.",
+        "Sacred liquids are poured sequentially on the Lingam with chanting.",
+        "Lingam is adorned with flowers, bilva leaves, and sandalwood paste.",
+        "Aarti is performed with lamps and chanting.",
+        "Devotees are given the opportunity for darshan post ritual.",
+        "Prasad is distributed to all participants."
+    ],
+    "dressCodeContent": [
+        "Male: Traditional attire like Dhoti and Angavastram",
+        "Female: Saree or Salwar Kameez (no Western attire)"
+    ],
+    "genderRestrictionsContent": [
+        "Male: Allowed",
+        "Female: Allowed (not allowed in inner sanctum during ritual)"
+    ],
+    "bookingInfoContent": [
+        "Booking Required: Yes",
+        "Online Booking Available: Yes",
+        "Booking Method: Book online via official temple website or onsite at temple office."
+    ],
+    "spiritualBenefits": [
+        "Abhishek is a profound act of devotion symbolizing spiritual cleansing.",
+        "It is believed to wash away negative karma and purify the soul.",
+        "The ritual deepens the connection between devotee and Lord Shiva.",
+        "Each element used in the bathing ritual represents spiritual qualities: purity, nourishment, and divine energy.",
+        "Performed during auspicious hours, it enhances spiritual upliftment and meditation.",
+        "Devotees often report feeling peace, renewal, and divine presence.",
+        "Abhishek also signifies humility and surrender to cosmic will.",
+        "It helps in focusing the mind and heart on spiritual growth."
+    ],
+    "spiritualBenefitsDesc": "Participating in the Abhishek ritual is a transformative experience that brings inner peace, spiritual awakening, and divine blessings.",
+    "detailsTitle": "Abhishek Details",
+    "detailsDescription": "Abhishek at Mahakaleshwar Temple is a divine bathing ritual performed on the Shiva Lingam. Devotees participate with sacred offerings to receive the grace of Lord Mahakal.",
+    "formTitle": "Book for Abhishek",
+    "calendarTitle": "Select Your Abhishek Date",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "nationality": "Nationality",
+    "date": "Selected Date",
+    "backToCalendar": "Back to Calendar",
+    "confirmEnquiry": "Confirm Enquiry",
+    "offeringsContent": [
+        "Milk",
+        "Honey",
+        "Curd",
+        "Water",
+        "Ghee",
+        "Bilva Leaves",
+        "Flowers",
+        "Sandalwood Paste"
+    ]
+}

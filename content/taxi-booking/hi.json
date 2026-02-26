@@ -1,0 +1,725 @@
+{
+  "labels": {
+    "persons": "व्यक्ति",
+    "off": "% छूट"
+  },
+  "sections": {
+    "carBooking": "कार बुकिंग",
+    "busBooking": "बस बुकिंग",
+    "travellerBooking": "ट्रैवलर बुकिंग",
+    "carRental": "कार रेंटल"
+  },
+  "vehicles": [
+    {
+      "id": 1,
+      "slug": "maruti-swift-dzire-0",
+      "category": "cars",
+      "vehicle_name": "मारुति स्विफ्ट डिजायर",
+      "km": "100 किमी शामिल (अतिरिक्त ₹25/किमी)",
+      "luggage": "2 मध्यम बैग",
+      "total_person_capacity": 5,
+      "pricing": {
+        "original_price": 2500,
+        "current_price": 2400,
+        "discount_percentage": 10
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/marutiSwiftDzire1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/marutiSwiftDzire2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/marutiSwiftDzire3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/marutiSwiftDzire4.webp"
+      ],
+      "overview": "शहर और बाहरी यात्राओं के लिए आरामदायक और विश्वसनीय मारुति स्विफ्ट डिजायर।",
+      "duration": "प्रति दिन",
+      "features": [
+        "AC",
+        "आरामदायक सीटें",
+        "ईंधन कुशल"
+      ],
+      "starting_point": "Ujjain",
+      "ending_point": "Ujjain",
+      "specifications": {
+        "model": "2023",
+        "fuel_type": "Petrol/CNG",
+        "seating_capacity": "5 persons",
+        "transmission": "मैनुअल",
+        "air_conditioning": "हाँ"
+      },
+      "driver_charges": 200,
+      "inclusions": [
+        "Fuel for included KM",
+        "Driver Charges",
+        "Toll & Parking"
+      ],
+      "exclusions": [
+        "Extra KM",
+        "State Tax",
+        "रात का शुल्क"
+      ],
+      "notes": [
+        "Perfect for small families",
+        "Economy choice"
+      ],
+      "policies": {
+        "cancellation_policy": "यात्रा से 24 घंटे पहले तक निःशुल्क रद्दीकरण।",
+        "refund_policy": "24 घंटे से पहले रद्द करने पर पूरा रिफंड। उसके बाद 50%।",
+        "driver_waiting_policy": "1 घंटे के बाद अतिरिक्त ₹100/घंटा।"
+      },
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "slug": "toyota-innova-crysta-1",
+      "category": "cars",
+      "vehicle_name": "टोयोटा इनोवा क्रिस्टा",
+      "km": "100 किमी शामिल (अतिरिक्त ₹30/किमी)",
+      "luggage": "2 मध्यम बैग",
+      "total_person_capacity": 7,
+      "pricing": {
+        "original_price": 5000,
+        "current_price": 4100,
+        "discount_percentage": 20
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/toyotaInnovaCrysta1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/toyotaInnovaCrysta2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/toyotaInnovaCrysta3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/toyotaInnovaCrysta4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "slug": "mahindra-scorpio-2",
+      "category": "cars",
+      "vehicle_name": "महिंद्रा स्कॉर्पियो",
+      "km": "100 किमी शामिल (अतिरिक्त ₹20/किमी)",
+      "luggage": "2 मध्यम बैग",
+      "total_person_capacity": 7,
+      "pricing": {
+        "original_price": 3500,
+        "current_price": 3250,
+        "discount_percentage": 10
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraScorpio1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraScorpio2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraScorpio3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraScorpio4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "slug": "mahindra-xuv500-3",
+      "category": "cars",
+      "vehicle_name": "महिंद्रा एक्सयूवी500",
+      "km": "100 किमी शामिल (अतिरिक्त ₹23/किमी)",
+      "luggage": "2 मध्यम बैग",
+      "total_person_capacity": 7,
+      "pricing": {
+        "original_price": 5000,
+        "current_price": 4100,
+        "discount_percentage": 20
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraXuv5001.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraXuv5002.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraXuv5003.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraXuv5004.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "slug": "tata-nexon-ev-4",
+      "category": "self-drive",
+      "vehicle_name": "टाटा नेक्सन ईवी",
+      "km": "100 किमी शामिल (अतिरिक्त ₹30/किमी)",
+      "luggage": "2 मध्यम बैग",
+      "total_person_capacity": 5,
+      "pricing": {
+        "original_price": 8000,
+        "current_price": 6950,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tataNexonEv1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tataNexonEv2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tataNexonEv3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tataNexonEv4.webp"
+      ],
+      "overview": "पर्यावरण के अनुकूल प्रदर्शन और आधुनिक सुविधाओं के साथ शहर की यात्रा के लिए आदर्श कॉम्पैक्ट इलेक्ट्रिक SUV।",
+      "duration": "प्रति दिन",
+      "features": [
+        "इलेक्ट्रिक SUV",
+        "ऑटोमैटिक ट्रांसमिशन",
+        "फास्ट चार्जिंग"
+      ],
+      "starting_point": "Ujjain",
+      "ending_point": "Ujjain",
+      "specifications": {
+        "model": "2024",
+        "fuel_type": "इलेक्ट्रिक",
+        "seating_capacity": "5 persons",
+        "transmission": "ऑटोमैटिक",
+        "air_conditioning": "हाँ"
+      },
+      "driver_charges": 200,
+      "inclusions": [
+        "वाहन बीमा",
+        "बेसिक चार्जिंग",
+        "सड़क किनारे सहायता"
+      ],
+      "exclusions": [
+        "अतिरिक्त किमी शुल्क",
+        "निःशुल्क सीमा से अधिक चार्जिंग",
+        "रात का शुल्क"
+      ],
+      "notes": [
+        "स्थानीय दर्शनीय स्थलों की यात्रा के लिए बिल्कुल सही",
+        "सुचारू शांत ड्राइव अनुभव"
+      ],
+      "policies": {
+        "cancellation_policy": "यात्रा से 24 घंटे पहले तक निःशुल्क रद्दीकरण।",
+        "refund_policy": "24 घंटे से पहले रद्द करने पर पूरा रिफंड। उसके बाद 50%।",
+        "driver_waiting_policy": "1 घंटे के बाद अतिरिक्त ₹100/घंटा।"
+      },
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "slug": "xylo-suv-car-5",
+      "category": "self-drive",
+      "vehicle_name": "जायलो एसयूवी कार",
+      "km": "100 किमी शामिल (अतिरिक्त ₹22/किमी)",
+      "luggage": "3 मध्यम बैग",
+      "total_person_capacity": 7,
+      "pricing": {
+        "original_price": 10000,
+        "current_price": 8650,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/xyloSuv1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/xyloSuv2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/xyloSuv3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/xyloSuv4.webp"
+      ],
+      "overview": "आरामदायक बैठने की जगह और सामान रखने की जगह के साथ पारिवारिक दौरों और छोटे समूहों के लिए उपयुक्त विशाल SUV रेंटल।",
+      "duration": "प्रति दिन",
+      "features": [
+        "SUV",
+        "विशाल इंटीरियर",
+        "मैनुअल AC"
+      ],
+      "starting_point": "Ujjain",
+      "ending_point": "Ujjain",
+      "specifications": {
+        "model": "2023",
+        "fuel_type": "डीजल",
+        "seating_capacity": "7 persons",
+        "transmission": "मैनुअल",
+        "air_conditioning": "हाँ"
+      },
+      "driver_charges": 200,
+      "inclusions": [
+        "बीमा",
+        "100 किमी के लिए ईंधन",
+        "ड्राइवर और पार्किंग शुल्क"
+      ],
+      "exclusions": [
+        "अतिरिक्त किमी शुल्क",
+        "नाइट हॉल्ट शुल्क",
+        "राज्य परमिट शुल्क"
+      ],
+      "notes": [
+        "पारिवारिक सैर के लिए आरामदायक",
+        "लंबी ड्राइव के लिए उपयुक्त"
+      ],
+      "policies": {
+        "cancellation_policy": "यात्रा से 24 घंटे पहले तक निःशुल्क रद्दीकरण।",
+        "refund_policy": "24 घंटे से पहले रद्द करने पर पूरा रिफंड। उसके बाद 50%।",
+        "driver_waiting_policy": "1 घंटे के बाद अतिरिक्त ₹100/घंटा।"
+      },
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "slug": "mahindra-bolero-neo-plus-6",
+      "category": "self-drive",
+      "vehicle_name": "महिंद्रा बोलेरो नियो प्लस",
+      "km": "100 किमी शामिल (अतिरिक्त ₹37/किमी)",
+      "luggage": "3 मध्यम बैग",
+      "total_person_capacity": 7,
+      "pricing": {
+        "original_price": 9500,
+        "current_price": 8225,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraBoleroNeoPlus1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraBoleroNeoPlus2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraBoleroNeoPlus3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mahindraBoleroNeoPlus4.webp"
+      ],
+      "overview": "मजबूत बनावट और विशाल बैठने की जगह के साथ ग्रामीण यात्राओं और ऑफ-रोड यात्राओं के लिए मजबूत SUV।",
+      "duration": "प्रति दिन",
+      "features": [
+        "हाई ग्राउंड क्लीयरेंस",
+        "डीजल इंजन",
+        "मजबूत डिजाइन"
+      ],
+      "starting_point": "Ujjain",
+      "ending_point": "Ujjain",
+      "specifications": {
+        "model": "2023",
+        "fuel_type": "डीजल",
+        "seating_capacity": "7 persons",
+        "transmission": "मैनुअल",
+        "air_conditioning": "हाँ"
+      },
+      "driver_charges": 200,
+      "inclusions": [
+        "100 किमी के लिए ईंधन",
+        "ड्राइवर सेवा",
+        "기본 유지 보수"
+      ],
+      "exclusions": [
+        "Extra KM Charges",
+        "नाइट हॉल्ट शुल्क",
+        "परमिट लागत"
+      ],
+      "notes": [
+        "कठिन इलाकों के लिए बिल्कुल सही",
+        "लंबी यात्राओं के लिए विश्वसनीय"
+      ],
+      "policies": {
+        "cancellation_policy": "यात्रा से 24 घंटे पहले तक निःशुल्क रद्दीकरण।",
+        "refund_policy": "24 घंटे से पहले रद्द करने पर पूरा रिफंड। उसके बाद 50%।",
+        "driver_waiting_policy": "1 घंटे के बाद अतिरिक्त ₹100/घंटा।"
+      },
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "slug": "mg-hector-plus-7",
+      "category": "self-drive",
+      "vehicle_name": "एमजी हेक्टर प्लस",
+      "km": "100 किमी शामिल (अतिरिक्त ₹38/किमी)",
+      "luggage": "4 मध्यम बैग",
+      "total_person_capacity": 7,
+      "pricing": {
+        "original_price": 9000,
+        "current_price": 7800,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mgHectorPlus1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mgHectorPlus2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mgHectorPlus3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/mgHectorPlus4.webp"
+      ],
+      "overview": "पारिवारिक या व्यावसायिक उपयोग के लिए आधुनिक सुविधाओं, विशाल इंटीरियर और उत्कृष्ट सवारी गुणवत्ता की पेशकश करने वाला प्रीमियम SUV।",
+      "duration": "प्रति दिन",
+      "features": [
+        "प्रीमियम इंटीरियर",
+        "उन्नत इंफोटेनमेंट",
+        "Spacious SUV"
+      ],
+      "starting_point": "Ujjain",
+      "ending_point": "Ujjain",
+      "specifications": {
+        "model": "2024",
+        "fuel_type": "पेट्रोल",
+        "seating_capacity": "7 persons",
+        "transmission": "ऑटोमैटिक",
+        "air_conditioning": "हाँ"
+      },
+      "driver_charges": 200,
+      "inclusions": [
+        "ड्राइवर सेवा",
+        "100 किमी के लिए ईंधन",
+        "सफाई और स्वच्छता"
+      ],
+      "exclusions": [
+        "अतिरिक्त किमी शुल्क",
+        "State Permit Charges",
+        "रात भर पार्किंग शुल्क"
+      ],
+      "notes": [
+        "व्यापार और पारिवारिक यात्राओं के लिए आदर्श",
+        "शानदार सवारी का अनुभव"
+      ],
+      "policies": {
+        "cancellation_policy": "यात्रा से 24 घंटे पहले तक निःशुल्क रद्दीकरण।",
+        "refund_policy": "24 घंटे से पहले रद्द करने पर पूरा रिफंड। उसके बाद 50%।",
+        "driver_waiting_policy": "1 घंटे के बाद अतिरिक्त ₹100/घंटा।"
+      },
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "slug": "tempo-traveller-9-seater-8",
+      "category": "travellers",
+      "vehicle_name": "टेम्पो ट्रैवलर 9 सीटर",
+      "km": "100 किमी शामिल (अतिरिक्त ₹24/किमी)",
+      "luggage": "2 मध्यम बैग",
+      "total_person_capacity": 9,
+      "pricing": {
+        "original_price": 7500,
+        "current_price": 6950,
+        "discount_percentage": 10
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller9Seater1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller9Seater2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller9Seater3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller9Seater4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "slug": "tempo-traveller-12-seater-9",
+      "category": "travellers",
+      "vehicle_name": "टेम्पो ट्रैवलर 12 सीटर",
+      "km": "100 किमी शामिल (अतिरिक्त ₹24/किमी)",
+      "luggage": "2-3 मध्यम बैग",
+      "total_person_capacity": 12,
+      "pricing": {
+        "original_price": 7500,
+        "current_price": 6575,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller9Seater1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller9Seater2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller9Seater3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller9Seater4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "slug": "tempo-traveller-16-seater-10",
+      "category": "travellers",
+      "vehicle_name": "टेम्पो ट्रैवलर 16 सीटर",
+      "km": "100 किमी शामिल (अतिरिक्त ₹28/किमी)",
+      "luggage": "3-4 मध्यम बैग",
+      "total_person_capacity": 16,
+      "pricing": {
+        "original_price": 8000,
+        "current_price": 7000,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "slug": "tempo-traveller-18-seater-11",
+      "category": "travellers",
+      "vehicle_name": "टेम्पो ट्रैवलर 18 सीटर",
+      "km": "100 किमी शामिल (अतिरिक्त ₹32/किमी)",
+      "luggage": "4 मध्यम बैग",
+      "total_person_capacity": 18,
+      "pricing": {
+        "original_price": 8500,
+        "current_price": 7425,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "slug": "tempo-traveller-20-seater-12",
+      "category": "travellers",
+      "vehicle_name": "टेम्पो ट्रैवलर 20 सीटर",
+      "km": "100 किमी शामिल (अतिरिक्त ₹35/किमी)",
+      "luggage": "5 मध्यम बैग",
+      "total_person_capacity": 20,
+      "pricing": {
+        "original_price": 9000,
+        "current_price": 7850,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/tempoTraveller12Seater4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 14,
+      "slug": "prasanna-purple-bus-13",
+      "category": "buses",
+      "vehicle_name": "प्रसन्ना - पर्पल बस",
+      "km": "100 किमी शामिल (अतिरिक्त ₹60/किमी)",
+      "luggage": "20 मध्यम बैग",
+      "total_person_capacity": 50,
+      "pricing": {
+        "original_price": 72000,
+        "current_price": 62200,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/prasannaPurpleBus1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/prasannaPurpleBus2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/prasannaPurpleBus3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/prasannaPurpleBus4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "slug": "ram-dalal-holidays-14",
+      "category": "buses",
+      "vehicle_name": "राम दलाल हॉलीडेज",
+      "km": "100 किमी शामिल (अतिरिक्त ₹69/किमी)",
+      "luggage": "15 मध्यम बैग",
+      "total_person_capacity": 45,
+      "pricing": {
+        "original_price": 50000,
+        "current_price": 43500,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/ramDalalHolidays3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/ramDalalHolidays2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/ramDalalHolidays1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/ramDalalHolidays4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 16,
+      "slug": "volvo-luxury-coach-15",
+      "category": "buses",
+      "vehicle_name": "वोल्वो लग्जरी कोच",
+      "km": "100 किमी शामिल (अतिरिक्त ₹75/किमी)",
+      "luggage": "25 मध्यम बैग",
+      "total_person_capacity": 55,
+      "pricing": {
+        "original_price": 65000,
+        "current_price": 55250,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/b4/6e/8b/28/73/v1_E10/E10IK2UI.jpg?w=1600&cf_fit=scale-down&q=85&format=auto&s=a8c9cf899874bd17b5cf185898f9b2deabdfe293a531aadb1e617017bdd34e04",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/volvoLuxuryCoach2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/volvoLuxuryCoach3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/volvoLuxuryCoach4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 17,
+      "slug": "zingbus-maxx-16",
+      "category": "buses",
+      "vehicle_name": "ज़िंगबस मैक्स",
+      "km": "100 किमी शामिल (अतिरिक्त ₹67/किमी)",
+      "luggage": "30 मध्यम बैग",
+      "total_person_capacity": 55,
+      "pricing": {
+        "original_price": 90000,
+        "current_price": 77500,
+        "discount_percentage": 15
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/zingbusMaxx1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/zingbusMaxx2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/zingbusMaxx3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/zingbusMaxx4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "slug": "force-traveller-17",
+      "category": "travellers",
+      "vehicle_name": "फोर्स ट्रैवलर",
+      "km": "100 किमी शामिल (अतिरिक्त ₹35/किमी)",
+      "luggage": "4 मध्यम बैग",
+      "total_person_capacity": 17,
+      "pricing": {
+        "original_price": 10000,
+        "current_price": 9150,
+        "discount_percentage": 8.5
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/forceTraveller1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/forceTraveller2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/forceTraveller3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/forceTraveller4.webp"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 19,
+      "slug": "maruti-eeco-18",
+      "category": "travellers",
+      "vehicle_name": "मारुति ईको",
+      "km": "100 किमी शामिल (अतिरिक्त ₹15/किमी)",
+      "luggage": "2 मध्यम बैग",
+      "total_person_capacity": 5,
+      "pricing": {
+        "original_price": 6450,
+        "current_price": 5955,
+        "discount_percentage": 7.7
+      },
+      "gallery": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/marutiEeco1.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/marutiEeco2.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/marutiEeco3.webp",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/vehicles/marutiEeco4.webp"
+      ],
+      "rating": 4.5
+    }
+  ],
+  "luxuryVehicles": [
+    {
+      "id": 101,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/rollesRoyal.webp",
+      "slug": "rolls-royce-phantom-0",
+      "category": "luxury-cars",
+      "vehicle_name": "रॉल्स-रॉयस फैंटम",
+      "inclusions": [
+        "चौफर सेवा",
+        "शामिल किलोमीटर के लिए ईंधन शुल्क",
+        "टोल टैक्स और पार्किंग",
+        "मानार्थ जलपान"
+      ]
+    },
+    {
+      "id": 102,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/lamborghiniAventadorSVJRental.webp",
+      "slug": "lamborghini-aventador-1",
+      "category": "luxury-cars",
+      "vehicle_name": "लैम्बोर्गिनी एवेन्टडोर",
+      "inclusions": [
+        "पेशेवर ड्राइवर",
+        "शामिल किलोमीटर के लिए ईंधन शुल्क",
+        "टोल टैक्स और पार्किंग",
+        "वाहन रखरखाव"
+      ]
+    },
+    {
+      "id": 103,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/mercedesMaybachS580VipRental.webp",
+      "slug": "mercedes-benz-maybach-s-580-2",
+      "category": "luxury-cars",
+      "vehicle_name": "मर्सिडीज-बेंज मेबैक S 580",
+      "inclusions": [
+        "चौफर सेवा",
+        "शामिल किलोमीटर के लिए ईंधन शुल्क",
+        "टोल टैक्स और पार्किंग",
+        "वाई-फाई ऑनबोर्ड"
+      ]
+    },
+    {
+      "id": 104,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/bentleyContinentalGtLuxury.webp",
+      "slug": "bentley-continental-gt-3",
+      "category": "luxury-cars",
+      "vehicle_name": "बेंटले कॉन्टिनेंटल GT",
+      "inclusions": [
+        "पेशेवर ड्राइवर",
+        "शामिल किलोमीटर के लिए ईंधन शुल्क",
+        "टोल टैक्स और पार्किंग",
+        "मानार्थ पानी"
+      ]
+    },
+    {
+      "id": 105,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/ferrari488PistaCelebrityRental.webp",
+      "slug": "ferrari-488-pista-4",
+      "category": "luxury-cars",
+      "vehicle_name": "फेरारी 488 पिस्ता",
+      "inclusions": [
+        "पेशेवर ड्राइवर",
+        "शामिल किलोमीटर के लिए ईंधन शुल्क",
+        "टोल टैक्स और पार्किंग",
+        "वाहन रखरखाव"
+      ]
+    },
+    {
+      "id": 106,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/rangeRoverSvCelebrityRental.webp",
+      "slug": "land-rover-range-rover-sv-5",
+      "category": "luxury-cars",
+      "vehicle_name": "लैंड रोवर रेंज रोवर SV",
+      "inclusions": [
+        "चौफर सेवा",
+        "शामिल किलोमीटर के लिए ईंधन शुल्क",
+        "टोल टैक्स और पार्किंग",
+        "वाई-फाई ऑनबोर्ड"
+      ]
+    },
+    {
+      "id": 107,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/bugattiChironHypercarRental.webp",
+      "slug": "bugatti-chiron-6",
+      "category": "luxury-cars",
+      "vehicle_name": "बुगाटी चिरोन",
+      "inclusions": [
+        "पेशेवर ड्राइवर",
+        "शामिल किलोमीटर के लिए ईंधन शुल्क",
+        "टोल टैक्स और पार्किंग",
+        "वाहन रखरखाव"
+      ]
+    },
+    {
+      "id": 108,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/teslaModelSPlaidElectricRental.webp",
+      "slug": "tesla-model-s-plaid-7",
+      "category": "luxury-cars",
+      "vehicle_name": "टेस्ला मॉडल S प्लेड",
+      "inclusions": [
+        "पेशेवर ड्राइवर",
+        "शामिल किलोमीटर के लिए चार्जिंग",
+        "टोल टैक्स और पार्किंग",
+        "वाई-फाई ऑनबोर्ड"
+      ]
+    },
+    {
+      "id": 109,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/porscheTaycanTurboSElectric.webp",
+      "slug": "porsche-taycan-turbo-s-8",
+      "category": "luxury-cars",
+      "vehicle_name": "पोर्श टायकन टर्बो S",
+      "inclusions": [
+        "पेशेवर ड्राइवर",
+        "शामिल किलोमीटर के लिए चार्जिंग",
+        "टोल टैक्स और पार्किंग",
+        "वाई-फाई ऑनबोर्ड"
+      ]
+    },
+    {
+      "id": 110,
+      "img": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/celebrityVehicles/astonMartinDb11AmrCelebrity.webp",
+      "slug": "aston-martin-db11-amr-9",
+      "category": "luxury-cars",
+      "vehicle_name": "एस्टन मार्टिन DB11 AMR",
+      "inclusions": [
+        "पेशेवर ड्राइवर",
+        "शामिल किलोमीटर के लिए ईंधन शुल्क",
+        "टोल टैक्स और पार्किंग",
+        "मानार्थ पानी"
+      ]
+    }
+  ]
+}

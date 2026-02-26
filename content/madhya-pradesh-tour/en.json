@@ -1,0 +1,923 @@
+{
+    "heroTitle": "Madhya Pradesh Tour Booking",
+    "heroDesc": "Explore top destinations like Indore, Bhopal, Ujjain, Omkareshwar, and more with our customizable tour packages. From spiritual journeys to cultural escapes, we make your travel seamless and memorable.",
+    "filters": {
+        "tourRating": "tour Rating",
+        "star": "Star",
+        "sortBy": "Sort By",
+        "options": {
+            "default": "Default",
+            "priceLow": "Price: Low to High",
+            "priceHigh": "Price: High to Low",
+            "rating": "Rating"
+        }
+    },
+    "list": {
+        "featured": "Featured",
+        "reviews": "Reviews",
+        "night": "/ Night",
+        "enquireNow": "Enquire Now",
+        "noResults": "No tours found matching your criteria."
+    },
+    "tours": [
+        {
+            "id": 1,
+            "title": "Ujjain Tour Packages - Mahakaleshwar & Omkareshwar Tours from Indore (3 Days / 2 Nights)",
+            "slug": "ujjain-tour-packages-mahakaleshwar-omkareshwar-3-days-2-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/mpsc.webp",
+            "subtitle": "3-Day Complete Spiritual Experience",
+            "tourFor": "ujjain-omkareshwar",
+            "category": "Religious Tour",
+            "season": "All Year",
+            "rating": 4.9,
+            "reviews": 128,
+            "duration": "3 Days & 2 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Ujjain"
+            ],
+            "route": "Indore → Ujjain (Mahakaleshwar, Kal Bhairav, Ram Ghat) → Omkareshwar → Maheshwar → Indore",
+            "currentPrice": "8,999",
+            "originalPrice": "11,999",
+            "saving": 3000,
+            "priceInclusive": [
+                "2 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Temple Entry Fees",
+                "AC Transport for Sightseeing",
+                "English/Hindi Speaking Guide",
+                "Mahakal Bhasma Aarti Passes"
+            ],
+            "priceExclusive": [
+                "Train/Air Tickets",
+                "Personal Expenses",
+                "Camera Fees",
+                "Any Pooja Materials"
+            ],
+            "overview": "A complete spiritual journey covering all major temples and sacred sites of Ujjain with VIP darshans and cultural experiences.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Indore to Ujjain",
+                    "description": "Arrival at Indore or pickup from your location. Transfer to Ujjain. Visit Mahakaleshwar Jyotirlinga Temple, explore Kal Bhairav Temple and Ram Ghat, and attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar and Maheshwar",
+                    "description": "Early morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple, then continue to Maheshwar. Explore Ahilyabai Fort and Maheshwar Ghats. Enjoy evening leisure or Narmada river sightseeing. Overnight stay in Maheshwar or nearby hotel."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Maheshwar to Indore Drop",
+                    "description": "Optional morning local sightseeing in Maheshwar. Depart for Indore. Drop at Indore railway station, airport, or your preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star Hotel near Ram Ghat",
+                "premium": "4 Star Heritage Property",
+                "luxury": "5 Star Riverside Resort"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Within Tour)"
+            },
+            "specialAttractions": [
+                "Exclusive Bhasma Aarti Experience",
+                "Private Audience with Temple Priests",
+                "Astrology Consultation Session",
+                "Traditional Pooja Kit"
+            ],
+            "physicalLevel": "Moderate (2-3km walking daily)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof for Temple Entry"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Mahakaleshwar & Omkareshwar Jyotirlinga Darshan Details"
+        },
+        {
+            "id": 2,
+            "title": "Ujjain Tour Packages - Mahakaleshwar & Omkareshwar Tours (2 Days / 1 Night)",
+            "slug": "ujjain-tour-packages-mahakaleshwar-omkareshwar-2-days-1-night",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/hoi.webp",
+            "subtitle": "2-Day Divine Island Experience",
+            "tourFor": "ujjain-omkareshwar",
+            "category": "Religious Tour",
+            "season": "All Year",
+            "rating": 4.7,
+            "reviews": 95,
+            "duration": "2 Days & 1 Night",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Omkareshwar"
+            ],
+            "route": "Indore → Ujjain (Mahakaleshwar Darshan, Harsiddhi Temple, Kal Bhairav, Ram Ghat Sandhya Aarti) → Indore",
+            "currentPrice": "5,999",
+            "originalPrice": "9,999",
+            "saving": 2000,
+            "priceInclusive": [
+                "1 Night AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Temple Entry Fees",
+                "AC Transport for Sightseeing",
+                "English/Hindi Speaking Guide",
+                "Boat Ride to Island Temple"
+            ],
+            "priceExclusive": [
+                "Train/Bus Tickets",
+                "Personal Expenses",
+                "Camera Fees",
+                "Any Pooja Materials"
+            ],
+            "overview": "Experience the divine energy of Omkareshwar Jyotirlinga situated on the sacred Narmada river island with traditional rituals and scenic beauty.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Indore to Ujjain",
+                    "description": "Pickup from Indore railway station, airport, or your location. Transfer to Ujjain. Visit Mahakaleshwar Jyotirlinga Temple, explore Kal Bhairav Temple and Harsiddhi Mata Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Indore",
+                    "description": "Optional morning darshan at temples. Explore Ujjain city with visits to local temples, ghats, and markets. Depart for Indore. Drop at railway station, airport, or your preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star Riverside Hotel",
+                "premium": "Heritage River Resort",
+                "luxury": "Luxury Narmada View Property"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Within Tour)"
+            },
+            "specialAttractions": [
+                "Sacred Island Temple Complex",
+                "Narmada River Boat Experience",
+                "Traditional Parikrama Walk",
+                "Sunrise/Sunset River Views"
+            ],
+            "physicalLevel": "Easy to Moderate (1-2km walking)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof for Temple Entry"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Mahakaleshwar Jyotirlinga Darshan in Ujjain"
+        },
+        {
+            "id": 3,
+            "title": "Ujjain, Omkareshwar & Maheshwar Tour Packages with Mandu Trips - 4 Days / 3 Nights",
+            "slug": "ujjain-omkareshwar-maheshwar-mandu-4-days-3-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/jrt.webp",
+            "subtitle": "4-Day Twin Jyotirlinga Experience",
+            "tourFor": "ujjain-omkareshwar",
+            "category": "Religious Tour",
+            "season": "All Year",
+            "rating": 4.8,
+            "reviews": 156,
+            "duration": "4 Days & 3 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Ujjain",
+                "Omkareshwar"
+            ],
+            "route": "Indore → Ujjain → Omkareshwar → Maheshwar → Mandu → Indore",
+            "currentPrice": "12,999",
+            "originalPrice": "17,999",
+            "saving": 4000,
+            "priceInclusive": [
+                "3 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Temple Entry Fees",
+                "AC Transport between Cities",
+                "English/Hindi Speaking Guide",
+                "Both Jyotirlinga VIP Darshans"
+            ],
+            "priceExclusive": [
+                "Train/Air/Bus Tickets",
+                "Personal Expenses",
+                "Camera Fees",
+                "Any Pooja Materials"
+            ],
+            "overview": "A comprehensive spiritual journey covering two of India's most sacred Jyotirlingas - Mahakaleshwar and Omkareshwar with complete darshan experiences.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Indore to Ujjain",
+                    "description": "Pickup from Indore railway station, airport, or your location. Transfer to Ujjain. Visit Mahakaleshwar Jyotirlinga Temple, explore Kal Bhairav Temple and Harsiddhi Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar and Maheshwar",
+                    "description": "Morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple, then continue to Maheshwar. Explore Ahilyabai Fort and Maheshwar Ghats. Overnight stay in Maheshwar."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Maheshwar to Mandu Sightseeing",
+                    "description": "Depart for Mandu. Visit Jahaz Mahal, Roopmati Mahal, and Mandu Forts. Enjoy evening leisure or sunset photography. Overnight stay in Mandu or nearby hotel."
+                },
+                {
+                    "day": "Day 4",
+                    "activity": "Mandu to Indore",
+                    "description": "Optional morning local sightseeing in Mandu. Depart for Indore. Drop at railway station, airport, or your preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star Hotels in both cities",
+                "premium": "4 Star Heritage Properties",
+                "luxury": "5 Star Resorts with River Views"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Complete Tour)"
+            },
+            "specialAttractions": [
+                "Two Sacred Jyotirlingas",
+                "Bhasma Aarti Experience",
+                "Narmada River Boat Ride",
+                "Complete Temple Circuits"
+            ],
+            "physicalLevel": "Moderate (3-4km walking daily)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof for Temple Entry"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Ujjain, Omkareshwar & Maheshwar Tour Highlights"
+        },
+        {
+            "id": 4,
+            "title": "Ujjain Mahakaleshwar & Omkareshwar Tour Packages - 4 Days / 3 Nights",
+            "slug": "ujjain-mahakaleshwar-omkareshwar-one-day-4-days-3-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/rsmt.webp",
+            "subtitle": "4-Day City Life & Divine Experience",
+            "tourFor": "ujjain-omkareshwar",
+            "category": "Cultural & Religious Tour",
+            "season": "All Year",
+            "rating": 4.6,
+            "reviews": 142,
+            "duration": "4 Days & 3 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Indore",
+                "Ujjain"
+            ],
+            "route": "Indore → Ujjain (Mahakaleshwar, Sandipani Ashram) → Omkareshwar → Mandu → Indore",
+            "currentPrice": "13,999",
+            "originalPrice": "18,999",
+            "saving": 5000,
+            "priceInclusive": [
+                "3 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Entry Fees & Permits",
+                "AC Transport between Cities",
+                "English/Hindi Speaking Guide",
+                "Food Tour in Indore"
+            ],
+            "priceExclusive": [
+                "Air/Train Tickets",
+                "Personal Expenses",
+                "Camera Fees",
+                "Shopping Expenses"
+            ],
+            "overview": "Experience the perfect blend of modern city culture in Indore and ancient spirituality in Ujjain with food tours, heritage sites, and sacred temples.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Ujjain Sightseeing",
+                    "description": "Pickup from Indore or local hotel if arriving from Indore. Visit Mahakaleshwar Jyotirlinga Temple, explore Kal Bhairav Temple and Harsiddhi Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar and Maheshwar",
+                    "description": "Morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple, then continue to Maheshwar. Explore Ahilyabai Fort and Maheshwar Ghats. Overnight stay in Maheshwar."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Maheshwar to Mandu Sightseeing",
+                    "description": "Morning departure to Mandu. Visit Jahaz Mahal, Roopmati Mahal, Mandu Forts and Palaces. Enjoy evening leisure or sunset photography. Overnight stay in Mandu or nearby hotel."
+                },
+                {
+                    "day": "Day 4",
+                    "activity": "Mandu to Indore",
+                    "description": "Optional morning sightseeing in Mandu. Depart for Indore. Drop at railway station, airport, or preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star Hotels in both cities",
+                "premium": "4 Star Business Hotels",
+                "luxury": "5 Star Properties with Premium Amenities"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Complete Tour)"
+            },
+            "specialAttractions": [
+                "Indore Street Food Experience",
+                "Holkar Dynasty Heritage",
+                "Mahakaleshwar Jyotirlinga",
+                "Traditional Markets & Shopping"
+            ],
+            "physicalLevel": "Easy to Moderate (2-3km walking)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Ujjain to Omkareshwar One Day Trip Details"
+        },
+        {
+            "id": 5,
+            "title": "Ujjain & Omkareshwar Tour Packages - Mahakaleshwar Jyotirlinga Darshan - 3 Days / 2 Nights",
+            "slug": "ujjain-omkareshwar-mahakaleshwar-jyotirlinga-3-days-2-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/mpwn.webp",
+            "subtitle": "3-Day Urban Culture & Sacred Island",
+            "tourFor": "ujjain-omkareshwar",
+            "category": "Cultural & Religious Tour",
+            "season": "All Year",
+            "rating": 4.5,
+            "reviews": 118,
+            "duration": "3 Days & 2 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Indore",
+                "Omkareshwar"
+            ],
+            "route": "Indore → Ujjain → Omkareshwar → Indore",
+            "currentPrice": "9,999",
+            "originalPrice": "14,999",
+            "saving": 4000,
+            "priceInclusive": [
+                "2 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Entry Fees & Temple Permits",
+                "AC Transport between Cities",
+                "English/Hindi Speaking Guide",
+                "Narmada River Boat Ride"
+            ],
+            "priceExclusive": [
+                "Air/Train/Bus Tickets",
+                "Personal Expenses",
+                "Camera Fees",
+                "Shopping & Souvenirs"
+            ],
+            "overview": "Discover Indore's rich heritage and culinary delights followed by the serene spiritual experience at Omkareshwar Jyotirlinga on the Narmada river.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Indore to Ujjain",
+                    "description": "Pickup from Indore railway station, airport, or your location. Transfer to Ujjain. Visit Mahakaleshwar Jyotirlinga Temple, explore Kal Bhairav Temple and Harsiddhi Mata Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar",
+                    "description": "Morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple, explore local temples and Narmada Ghats. Evening leisure or optional sightseeing. Overnight stay in Omkareshwar or nearby hotel."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Omkareshwar to Indore",
+                    "description": "Optional morning temple visit in Omkareshwar. Depart for Indore. Drop at railway station, airport, or preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star City & Riverside Hotels",
+                "premium": "4 Star Heritage Properties",
+                "luxury": "5 Star Resorts with River Views"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Complete Tour)"
+            },
+            "specialAttractions": [
+                "Indore Food & Heritage Tour",
+                "Omkareshwar Sacred Island",
+                "Narmada River Experience",
+                "Holkar Dynasty Palaces"
+            ],
+            "physicalLevel": "Easy to Moderate (2km walking daily)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Ujjain to Omkareshwar Tour Itinerary - 3 Days / 2 Nights"
+        },
+        {
+            "id": 6,
+            "title": "Ujjain, Omkareshwar & Maheshwar Tour Packages with Mandu Trips - 4 Days / 3 Nights",
+            "slug": "ujjain-omkareshwar-maheshwar-mandu-4-days-3-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/mmpt.webp",
+            "subtitle": "4-Day Lakes, History & Divine Experience",
+            "tourFor": "ujjain-omkareshwar",
+            "category": "Cultural & Religious Tour",
+            "season": "All Year",
+            "rating": 4.7,
+            "reviews": 134,
+            "duration": "4 Days & 3 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Bhopal",
+                "Ujjain"
+            ],
+            "route": "Indore → Ujjain → Omkareshwar → Maheshwar → Mandu → Indore",
+            "currentPrice": "14,999",
+            "originalPrice": "19,999",
+            "saving": 5000,
+            "priceInclusive": [
+                "3 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Entry Fees & Museum Tickets",
+                "AC Transport between Cities",
+                "English/Hindi Speaking Guide",
+                "Bhojpur & Sanchi Day Trip"
+            ],
+            "priceExclusive": [
+                "Air/Train Tickets",
+                "Personal Expenses",
+                "Camera Fees at Monuments",
+                "Shopping Expenses"
+            ],
+            "overview": "Explore the City of Lakes with its rich Islamic heritage, Buddhist monuments, and then experience the spiritual power of Ujjain's ancient temples.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Indore to Ujjain",
+                    "description": "Pickup from Indore railway station, airport, or your location. Transfer to Ujjain. Visit Mahakaleshwar Jyotirlinga Temple, Kal Bhairav Temple, and Harsiddhi Mata Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar and Maheshwar",
+                    "description": "Morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple, then continue to Maheshwar. Explore Ahilyabai Fort and Maheshwar Ghats. Overnight stay in Maheshwar."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Maheshwar to Mandu Sightseeing",
+                    "description": "Morning departure to Mandu. Visit Jahaz Mahal, Roopmati Mahal, Mandu Forts, and Palaces. Enjoy evening leisure or sunset photography. Overnight stay in Mandu or nearby hotel."
+                },
+                {
+                    "day": "Day 4",
+                    "activity": "Mandu to Indore",
+                    "description": "Optional morning sightseeing in Mandu. Depart for Indore. Drop at railway station, airport, or preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star Hotels in both cities",
+                "premium": "4 Star Lake View & Heritage Hotels",
+                "luxury": "5 Star Resorts with Premium Amenities"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Complete Tour)"
+            },
+            "specialAttractions": [
+                "UNESCO World Heritage Sanchi",
+                "Bhopal's Lake District",
+                "Mahakaleshwar Jyotirlinga",
+                "Islamic Architecture Tour"
+            ],
+            "physicalLevel": "Moderate (3-4km walking daily)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Ujjain to Omkareshwar Jyotirlinga Temple Tour"
+        },
+        {
+            "id": 7,
+            "title": "Ujjain, Omkareshwar, Maheshwar & Mandu Tour Packages - 3 Days / 2 Nights",
+            "slug": "ujjain-omkareshwar-maheshwar-mandu-3-days-2-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/mtmp.webp",
+            "subtitle": "3-Day Capital City & Divine Island",
+            "tourFor": "ujjain-omkareshwar",
+            "category": "Cultural & Religious Tour",
+            "season": "All Year",
+            "rating": 4.6,
+            "reviews": 108,
+            "duration": "3 Days & 2 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Bhopal",
+                "Omkareshwar"
+            ],
+            "route": "Indore → Ujjain (Mahakal, Kal Bhairav) → Maheshwar (Ahilyabai Fort, Narmada Ghat) → Indore",
+            "currentPrice": "11,999",
+            "originalPrice": "15,999",
+            "saving": 4000,
+            "priceInclusive": [
+                "2 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Entry Fees & Temple Permits",
+                "AC Transport between Cities",
+                "English/Hindi Speaking Guide",
+                "Sanchi UNESCO Site Visit"
+            ],
+            "priceExclusive": [
+                "Air/Train/Bus Tickets",
+                "Personal Expenses",
+                "Camera Fees at Monuments",
+                "Shopping & Souvenirs"
+            ],
+            "overview": "Journey through Madhya Pradesh's capital with its lakes and heritage sites, followed by a serene spiritual experience at the sacred Omkareshwar island.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Indore to Ujjain",
+                    "description": "Pickup from Indore railway station, airport, or your location. Transfer to Ujjain. VIP Darshan at Mahakaleshwar Jyotirlinga Temple. Visit Kal Bhairav Temple and Harsiddhi Mata Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar",
+                    "description": "Morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple. Explore local temples and Narmada Ghats. Evening leisure or optional sightseeing. Overnight stay in Omkareshwar or nearby hotel."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Omkareshwar to Indore",
+                    "description": "Optional morning darshan or sightseeing in Omkareshwar. Depart for Indore. Drop at railway station, airport, or preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star City & Riverside Hotels",
+                "premium": "4 Star Lake View & Heritage Properties",
+                "luxury": "5 Star Resorts with Premium Amenities"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Complete Tour)"
+            },
+            "specialAttractions": [
+                "UNESCO Sanchi Stupa",
+                "Bhopal's Upper Lake",
+                "Omkareshwar Sacred Island",
+                "Narmada River Experience"
+            ],
+            "physicalLevel": "Easy to Moderate (2-3km walking)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Best Time to Visit Ujjain, Omkareshwar, Maheshwar & Mandu"
+        },
+        {
+            "id": 8,
+            "title": "Ujjain, Mahakaleshwar & Omkareshwar Tour Packages - 5 Days / 4 Nights",
+            "slug": "ujjain-mahakaleshwar-omkareshwar-5-days-4-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/saw.webp",
+            "subtitle": "5-Day Complete Madhya Pradesh Experience",
+            "tourFor": "ujjain-omkareshwar",
+            "category": "Cultural & Religious Tour",
+            "season": "All Year",
+            "rating": 4.9,
+            "reviews": 187,
+            "duration": "5 Days & 4 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Indore",
+                "Ujjain",
+                "Omkareshwar"
+            ],
+            "route": "Indore → Ujjain (Mahakaleshwar) → Omkareshwar → Maheshwar → Mandu → Indore",
+            "currentPrice": "16,999",
+            "originalPrice": "22,999",
+            "saving": 7000,
+            "priceInclusive": [
+                "4 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Entry Fees & Temple Permits",
+                "AC Transport between All Cities",
+                "English/Hindi Speaking Guide",
+                "Both Jyotirlinga VIP Darshans",
+                "Indore Food Tour Experience"
+            ],
+            "priceExclusive": [
+                "Air/Train/Bus Tickets",
+                "Personal Expenses",
+                "Camera Fees",
+                "Shopping & Souvenirs"
+            ],
+            "overview": "The ultimate Madhya Pradesh spiritual and cultural journey covering Indore's heritage, both sacred Jyotirlingas, and complete temple circuits with premium experiences.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Arrival and Ujjain Darshan",
+                    "description": "Pickup from Indore railway station, airport, or your location. Transfer to Ujjain. Visit Mahakaleshwar Jyotirlinga Temple, Kal Bhairav Temple, and Harsiddhi Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar",
+                    "description": "Morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple. Explore local temples and Narmada Ghats. Overnight stay in Omkareshwar."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Omkareshwar to Maheshwar",
+                    "description": "Morning transfer to Maheshwar. Visit Ahilyabai Fort and Maheshwar Ghats. Evening leisure or sightseeing. Overnight stay in Maheshwar."
+                },
+                {
+                    "day": "Day 4",
+                    "activity": "Maheshwar to Mandu Sightseeing",
+                    "description": "Morning departure to Mandu. Explore Jahaz Mahal, Roopmati Mahal, Mandu Forts, and Palaces. Enjoy evening sunset or photography. Overnight stay in Mandu or nearby hotel."
+                },
+                {
+                    "day": "Day 5",
+                    "activity": "Mandu to Indore",
+                    "description": "Optional morning sightseeing in Mandu. Depart for Indore. Drop at railway station, airport, or preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star Hotels in all cities",
+                "premium": "4 Star Heritage & Business Hotels",
+                "luxury": "5 Star Resorts with Premium Amenities"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Complete Circuit)"
+            },
+            "specialAttractions": [
+                "Both Sacred Jyotirlingas",
+                "Indore Heritage & Food Tour",
+                "Bhasma Aarti Experience",
+                "Narmada River Boat Ride",
+                "Complete Temple Circuits"
+            ],
+            "physicalLevel": "Moderate (3-4km walking daily)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof for all locations"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Mahakaleshwar Jyotirlinga Darshan - Ujjain Special Tour"
+        },
+        {
+            "id": 9,
+            "title": "Mahakaleshwar & Omkareshwar Tour Packages - Ujjain City Tour (5 Days / 4 Nights)",
+            "slug": "mahakaleshwar-omkareshwar-ujjain-city-tour-5-days-4-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/mddt.webp",
+            "subtitle": "5-Day Capital, Temples & Sacred Island",
+            "tourFor": "ujjain-omkareshwar-maheshwar",
+            "category": "Cultural & Religious Tour",
+            "season": "All Year",
+            "rating": 4.8,
+            "reviews": 167,
+            "duration": "5 Days & 4 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Bhopal",
+                "Ujjain",
+                "Omkareshwar"
+            ],
+            "route": "Indore → Ujjain → Omkareshwar → Maheshwar → Mandu → Bhopal (Sanchi Stupa) → Indore",
+            "endPoint": "Omkareshwar Bus Stand",
+            "currentPrice": "18,999",
+            "originalPrice": "24,999",
+            "saving": 7000,
+            "priceInclusive": [
+                "4 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Entry Fees & Temple Permits",
+                "AC Transport between All Cities",
+                "English/Hindi Speaking Guide",
+                "Both Jyotirlinga VIP Darshans",
+                "Indore Food Tour Experience"
+            ],
+            "priceExclusive": [
+                "Air/Train/Bus Tickets",
+                "Personal Expenses",
+                "Camera Fees",
+                "Shopping & Souvenirs"
+            ],
+            "overview": "The ultimate Madhya Pradesh spiritual and cultural journey covering Indore's heritage, both sacred Jyotirlingas, and complete temple circuits with premium experiences.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Indore to Ujjain",
+                    "description": "Pickup from Indore railway station, airport, or your location. Transfer to Ujjain. Visit Mahakaleshwar Jyotirlinga Temple, Kal Bhairav Temple, and Harsiddhi Mata Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar",
+                    "description": "Morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple. Explore local temples and Narmada Ghats. Overnight stay in Omkareshwar."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Omkareshwar to Maheshwar",
+                    "description": "Morning transfer to Maheshwar. Visit Ahilyabai Fort and Maheshwar Ghats. Evening leisure or sightseeing. Overnight stay in Maheshwar."
+                },
+                {
+                    "day": "Day 4",
+                    "activity": "Maheshwar to Mandu Sightseeing",
+                    "description": "Morning departure to Mandu. Visit Jahaz Mahal, Roopmati Mahal, Mandu Forts, and Palaces. Enjoy evening sunset or photography. Overnight stay in Mandu or nearby hotel."
+                },
+                {
+                    "day": "Day 5",
+                    "activity": "Mandu to Indore",
+                    "description": "Optional morning sightseeing in Mandu. Depart for Indore. Drop at railway station, airport, or preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star Hotels in all cities",
+                "premium": "4 Star Heritage & Business Hotels",
+                "luxury": "5 Star Resorts with Premium Amenities"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Complete Circuit)"
+            },
+            "specialAttractions": [
+                "Both Sacred Jyotirlingas",
+                "Indore Heritage & Food Tour",
+                "Bhasma Aarti Experience",
+                "Narmada River Boat Ride",
+                "Complete Temple Circuits"
+            ],
+            "physicalLevel": "Moderate (3-4km walking daily)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof for all locations"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Ujjain to Omkareshwar Temple Tour"
+        },
+        {
+            "id": 10,
+            "title": "Ujjain, Mahakaleshwar & Omkareshwar Tour Packages (5 Days / 4 Nights)",
+            "slug": "ujjain-mahakaleshwar-omkareshwar-5-days-4-nights",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/mpTours/cme.webp",
+            "subtitle": "5-Day Capital, Temples & Sacred Island",
+            "tourFor": "ujjain-omkareshwar-maheshwar",
+            "category": "Cultural & Religious Tour",
+            "season": "All Year",
+            "rating": 4.8,
+            "reviews": 167,
+            "duration": "5 Days & 4 Nights",
+            "guests": "2-20 Persons",
+            "ageGroup": "All Ages",
+            "destinations": [
+                "Bhopal",
+                "Ujjain",
+                "Omkareshwar"
+            ],
+            "route": "Indore → Ujjain (Mahakaleshwar, Harsiddhi) → Omkareshwar → Maheshwar → Mandu → Indore",
+            "endPoint": "Omkareshwar Bus Stand",
+            "currentPrice": "17,999",
+            "originalPrice": "23,999",
+            "saving": 7000,
+            "priceInclusive": [
+                "4 Nights AC Accommodation",
+                "Daily Breakfast & Dinner",
+                "All Entry Fees & Temple Permits",
+                "AC Transport between All Cities",
+                "English/Hindi Speaking Guide",
+                "Both Jyotirlinga VIP Darshans",
+                "Indore Food Tour Experience"
+            ],
+            "priceExclusive": [
+                "Air/Train/Bus Tickets",
+                "Personal Expenses",
+                "Camera Fees",
+                "Shopping & Souvenirs"
+            ],
+            "overview": "The ultimate Madhya Pradesh spiritual and cultural journey covering Indore's heritage, both sacred Jyotirlingas, and complete temple circuits with premium experiences.",
+            "itinerary": [
+                {
+                    "day": "Day 1",
+                    "activity": "Ujjain Darshan",
+                    "description": "Pickup from Indore railway station, airport, or your location. Transfer to Ujjain. Visit Mahakaleshwar Jyotirlinga Temple, Kal Bhairav Temple, and Harsiddhi Mata Temple. Attend evening Narmada Aarti at Ram Ghat. Overnight stay in Ujjain."
+                },
+                {
+                    "day": "Day 2",
+                    "activity": "Ujjain to Omkareshwar and Maheshwar",
+                    "description": "Morning departure to Omkareshwar. Visit Omkareshwar Jyotirlinga Temple, then continue to Maheshwar. Explore Ahilyabai Fort and Maheshwar Ghats. Overnight stay in Maheshwar."
+                },
+                {
+                    "day": "Day 3",
+                    "activity": "Maheshwar to Mandu Sightseeing",
+                    "description": "Morning transfer to Mandu. Visit Jahaz Mahal, Roopmati Mahal, Mandu Forts, and Palaces. Enjoy evening leisure or sunset photography. Overnight stay in Mandu or nearby hotel."
+                },
+                {
+                    "day": "Day 4",
+                    "activity": "Mandu to Bhopal via Sanchi Stupa",
+                    "description": "Morning departure to Bhopal. Visit Sanchi Stupa and nearby Buddhist heritage sites. Evening leisure in Bhopal. Overnight stay in Bhopal."
+                },
+                {
+                    "day": "Day 5",
+                    "activity": "Bhopal to Indore",
+                    "description": "Optional morning sightseeing in Bhopal if time permits. Depart for Indore. Drop at railway station, airport, or preferred location."
+                }
+            ],
+            "accommodation": {
+                "standard": "3 Star Hotels in all cities",
+                "premium": "4 Star Heritage & Business Hotels",
+                "luxury": "5 Star Resorts with Premium Amenities"
+            },
+            "transport": {
+                "options": [
+                    "AC Coach",
+                    "Innova",
+                    "Tempo Traveller"
+                ],
+                "included": "Yes (Complete Circuit)"
+            },
+            "specialAttractions": [
+                "Both Sacred Jyotirlingas",
+                "Indore Heritage & Food Tour",
+                "Bhasma Aarti Experience",
+                "Narmada River Boat Ride",
+                "Complete Temple Circuits"
+            ],
+            "physicalLevel": "Moderate (3-4km walking daily)",
+            "bookingPolicy": {
+                "advancePayment": "30% to confirm booking",
+                "documentsRequired": "ID Proof for all locations"
+            },
+            "cancellationPolicy": [
+                "30+ days: Full refund",
+                "15-30 days: 50% refund",
+                "0-14 days: No refund"
+            ],
+            "packageName": "Omkareshwar Temple & Narmada Ghat Visit"
+        }
+    ]
+}

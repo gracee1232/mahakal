@@ -1,0 +1,67 @@
+{
+    "title": "About Us",
+    "description": "Our mission is to redefine the Ujjain Mahakal Darshan experience - making it more comfortable, organized, and spiritually enriching. We have transformed this holy journey into a smooth, respectful, and memorable experience for devotees.",
+    "features": [
+        {
+            "heading": "Comfortable Stay",
+            "items": [
+                "Clean & hygienic rooms",
+                "Walking distance from Mahakal",
+                "Verified hotels & guesthouses",
+                "AC & Non-AC room options",
+                "Early check-in available",
+                "Friendly staff familiar with pilgrim needs",
+                "Budget to premium category stays"
+            ]
+        },
+        {
+            "heading": "Smooth Travel",
+            "items": [
+                "Experienced, respectful drivers",
+                "AC vehicles for long journeys",
+                "Flexible pickup & drop locations",
+                "Private & shared cab options",
+                "All vehicles regularly sanitized",
+                "Local sightseeing available",
+                "Punctual service with live tracking"
+            ]
+        },
+        {
+            "heading": "Spiritual Darshan",
+            "items": [
+                "Darshan slot booking assistance",
+                "On-ground support staff",
+                "Real-time updates during your visit",
+                "Guided entry during rush hours",
+                "Help with Bhasma Aarti bookings",
+                "Priority access support (where applicable)",
+                "Puja Samagri arrangements on request"
+            ]
+        }
+    ],
+    "ourStoryTitle": "Our Story",
+    "ourStoryText": "UjjainMahakal.com was founded with a deep devotion to Mahakal Baba and a mission to make every pilgrim’s journey seamless. What started as a small initiative to help a few friends, has now served 10,000+ pilgrims with love and respect. Over time, it has grown into a trusted platform.",
+    "whyUsTitle": "Why Us ?",
+    "whyUsItems": [
+        "Devotion-first approach rooted in spirituality and service",
+        "100% verified and trusted stays & travel partners",
+        "Transparent pricing with absolutely no hidden charges",
+        "On-ground assistance from experienced local support staff",
+        "Customized experiences designed for every pilgrim’s comfort"
+    ],
+    "statsTitle": "Our Journey in Numbers",
+    "stats": [
+        {
+            "label": "Pilgrims Served"
+        },
+        {
+            "label": "Verified Stays"
+        },
+        {
+            "label": "Experienced Drivers"
+        },
+        {
+            "label": "Live Assistance"
+        }
+    ]
+}

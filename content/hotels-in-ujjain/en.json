@@ -1,0 +1,190 @@
+{
+  "heroTitle": "Hotel Booking in Ujjain",
+  "heroDesc": "We enable wildlife travelers to instantly book a wide range of hotels and resorts — from luxury to budget — across.",
+  "filters": {
+    "hotelRating": "Hotel Rating",
+    "star": "Star",
+    "sortBy": "Sort By",
+    "options": {
+      "default": "Default",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "rating": "Rating"
+    }
+  },
+  "list": {
+    "featured": "Featured",
+    "reviews": "Reviews",
+    "night": "/ Night",
+    "enquireNow": "Enquire Now",
+    "noResults": "No hotels found matching your criteria."
+  },
+  "hotelsList": [
+    {
+      "id": 5,
+      "title": "Grand Mahakal Heritage",
+      "slug": "grand-mahakal-heritage-4",
+      "subtitle": "Luxury Stay Just 200m from Mahakaleshwar Temple",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_5.webp",
+      "rating": 4.9,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "Near Mahakal Temple Gate No. 3",
+      "currentPrice": "8,499/-",
+      "amenities": [
+        "24-hour front desk",
+        "Free parking",
+        "Airport transfers (chargeable)",
+        "Business center",
+        "Doctor on call",
+        "Laundry service",
+        "Luggage storage",
+        "Multilingual staff"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Rudraksh Riverside Retreat",
+      "slug": "rudraksh-riverside-retreat-5",
+      "subtitle": "Premium Property on Kshipra River Banks",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_6.webp",
+      "rating": 3.7,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "Ram Ghat Road, Ujjain",
+      "currentPrice": "6,999/-",
+      "amenities": [
+        "Free bicycle rentals",
+        "24-hour security",
+        "Travel desk",
+        "Currency exchange",
+        "Gift shop",
+        "Free WiFi",
+        "Power backup"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Shivam Executive Inn",
+      "slug": "shivam-executive-inn-6",
+      "subtitle": "Business-Class Hotel Near Railway Station",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_7.webp",
+      "rating": 5,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "Opposite Railway Station, Ujjain",
+      "currentPrice": "4,200/-",
+      "amenities": [
+        "Business center",
+        "ATM in lobby",
+        "Doctor on call",
+        "Laundry service",
+        "Elevator access",
+        "CCTV security"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Omkar Heritage Haveli",
+      "slug": "omkar-heritage-haveli-7",
+      "subtitle": "18th Century Restored Mansion with Modern Amenities",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_8.webp",
+      "rating": 4.8,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "Old City, Ujjain",
+      "currentPrice": "12,500/-",
+      "amenities": [
+        "Swimming pool",
+        "Ayurvedic spa",
+        "Library with rare manuscripts",
+        "Cultural performances",
+        "Cooking classes",
+        "Guided heritage tours"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Shivam Executive Inn",
+      "slug": "shivam-executive-inn-2",
+      "subtitle": "Business-Class Hotel Near Railway Station",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_3.webp",
+      "rating": 3.2,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "Opposite Railway Station, Ujjain",
+      "currentPrice": "4,200/-",
+      "amenities": [
+        "Business center",
+        "ATM in lobby",
+        "Doctor on call",
+        "Laundry service",
+        "Elevator access",
+        "CCTV security"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Omkar Heritage Haveli",
+      "slug": "omkar-heritage-haveli-3",
+      "subtitle": "18th Century Restored Mansion with Modern Amenities",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_4.webp",
+      "rating": 5,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "Old City, Ujjain",
+      "currentPrice": "12,500/-",
+      "amenities": [
+        "Swimming pool",
+        "Ayurvedic spa",
+        "Library with rare manuscripts",
+        "Cultural performances",
+        "Cooking classes",
+        "Guided heritage tours"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Grand Mahakal Heritage",
+      "slug": "grand-mahakal-heritage-8",
+      "subtitle": "Luxury Stay Just 200m from Mahakaleshwar Temple",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_1.webp",
+      "rating": 3.9,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "Near Mahakal Temple Gate No. 3",
+      "currentPrice": "8,499/-",
+      "amenities": [
+        "24-hour front desk",
+        "Free parking",
+        "Airport transfers (chargeable)",
+        "Business center",
+        "Doctor on call",
+        "Laundry service",
+        "Luggage storage",
+        "Multilingual staff"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Rudraksh Riverside Retreat",
+      "slug": "rudraksh-riverside-retreat-9",
+      "subtitle": "Premium Property on Kshipra River Banks",
+      "heroImage": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/allHotels/hotel_2.webp",
+      "rating": 5,
+      "reviews": 20,
+      "hotelFor": "ujjain",
+      "location": "Ram Ghat Road, Ujjain",
+      "currentPrice": "6,999/-",
+      "amenities": [
+        "Free bicycle rentals",
+        "24-hour security",
+        "Travel desk",
+        "Currency exchange",
+        "Gift shop",
+        "Free WiFi",
+        "Power backup"
+      ]
+    }
+  ]
+}

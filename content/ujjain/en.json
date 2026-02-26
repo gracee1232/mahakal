@@ -1,0 +1,274 @@
+{
+    "heroHeading": "Ujjain Darshan",
+    "heroSubheading": "Discover the Glory of Shri Mahakaleshwar",
+    "heroText": "Witness timeless traditions, sacred chants, and the divine aura of Ujjain’s most revered temple",
+    "sections": {
+        "placeTitle": "The Place of Mahakal",
+        "placeDesc": "Ujjain, steeped in myth and sanctity, stands as a beacon of devotion where Lord Shiva is eternally worshipped in his fierce Mahakaleshwar form on the Shipra’s banks.",
+        "ritualsTitle": "Rituals and Poojas",
+        "ghatsTitle": "Ghats",
+        "aboutTitle": "About",
+        "aboutDesc": "As one of the Sapta Puri and the site of the Kumbh Mela, Ujjain holds unmatched religious importance, symbolizing cosmic balance and spiritual awakening.",
+        "practicalTipsTitle": "Practical Tips",
+        "practicalTipsDesc": "Plan ahead by booking early, dressing traditionally, carrying minimal belongings, and preparing for a deeply moving but early-morning experience at the temple.",
+        "templesTitle": "Temples in Ujjain"
+    },
+    "cardLabels": {
+        "location": "Location:",
+        "duration": "Duration:",
+        "timing": "Timing:",
+        "significance": "Significance:",
+        "architecture": "architecture:",
+        "features": "features:"
+    },
+    "city": {
+        "name": "Ujjain",
+        "state": "Madhya Pradesh, India",
+        "significance": "One of Hinduism’s seven holy cities, famed for Mahakaleshwar Jyotirlinga and Kumbh Mela.",
+        "ancientName": "Avantika",
+        "historicalImportance": "Capital of Vikramaditya; center of learning and culture.",
+        "geographicalNote": "Located on the banks of the Shipra River, with the Tropic of Cancer passing through it.",
+        "population": "Approx. 5 lakh (500,000) residents as per latest census.",
+        "majorFestivals": "Mahakaleshwar Bhasma Aarti, Kumbh Mela Festival."
+    },
+    "ujjainOverview": [
+        "Ujjain is an ancient city located in the central Indian state of Madhya Pradesh.",
+        "It is one of the seven sacred cities (Sapta Puri) in Hinduism and a prominent pilgrimage destination.",
+        "The city is situated on the eastern bank of the holy river Shipra.",
+        "Ujjain is renowned for the Mahakaleshwar Jyotirlinga, one of the twelve Jyotirlingas of Lord Shiva.",
+        "It hosts the famous Kumbh Mela (Simhastha) every 12 years, attracting millions of devotees from across the world.",
+        "The city has a rich historical and cultural heritage, having been a center of learning and astronomy in ancient India.",
+        "It was once ruled by the legendary King Vikramaditya and features prominently in the works of poet Kalidasa.",
+        "The Tropic of Cancer passes through Ujjain, adding to its geographical and spiritual significance."
+    ],
+    "temples": [
+        {
+            "name": "Mahakaleshwar Temple",
+            "description": "One of the 12 Jyotirlingas, dedicated to Lord Shiva in the form of a self-manifested (Swayambhu) lingam.",
+            "location": "Near Rudra Sagar Lake, Jaisinghpura",
+            "architecture": "Bhumija style with ornate spire",
+            "timings": "6:00 AM to 11:00 PM",
+            "features": "Bhasma Aarti, VR experience"
+        },
+        {
+            "name": "Bade Ganeshji Temple",
+            "description": "Famous for its large artistic idol of Lord Ganesha, known for blessings of wisdom and prosperity",
+            "location": "1 km from Ujjain Railway Station",
+            "architecture": "Rajput-Mughal fusion",
+            "timings": "5:00 AM to 7:00 PM",
+            "features": "Astrology & Sanskrit learning"
+        },
+        {
+            "name": "Harsiddhi Temple",
+            "description": "Dedicated to Goddess Harsiddhi — a form of Annapurna, Mahalakshmi, and Mahasaraswati — and known for its iconic Deepmala lamp towers.",
+            "location": "Near Shipra River",
+            "architecture": "Maratha style with twin pillars",
+            "timings": "6:00 AM to 10:00 PM",
+            "features": "Stacked idols, lamp lighting"
+        },
+        {
+            "name": "Mangalnath Temple",
+            "description": "Believed to be the birthplace of planet Mars, for astrology & Mangal Dosh Nivaran Pooja",
+            "location": "Slightly away from Ujjain city center",
+            "architecture": "Traditional Hindu stonework",
+            "timings": "6:00 AM to 11:00 PM",
+            "features": "Mangal Dosh pooja site"
+        },
+        {
+            "name": "Kal Bhairav Temple",
+            "description": "Dedicated to Lord Kal Bhairav, famous for its unique tradition of offering liquor to the deity",
+            "location": "Accessible from Mahakaleshwar Temple",
+            "architecture": "Maratha style with mural traces",
+            "timings": "6:00 AM to 10:00 PM",
+            "features": "fierce guardian deity, vibrant spiritual aura"
+        },
+        {
+            "name": "Sandipani Ashram",
+            "description": "Ancient ashram where Lord Krishna, Balaram, and Sudama studied under Maharishi Sandipani.",
+            "location": "Within Ujjain",
+            "architecture": "Rock-cut with Krishna carvings",
+            "timings": "7:00 AM to 8:00 PM",
+            "features": "Gomti Kund, Krishna footprints, Kuber idol, ancient Shiva temple"
+        },
+        {
+            "name": "ISKCON Temple",
+            "description": "A modern temple dedicated to Lord Krishna, offering a spiritual retreat",
+            "location": "On the outskirts of Ujjain",
+            "architecture": "Neo-Vedic white domes",
+            "timings": "4 AM to 10 PM",
+            "features": "Peaceful and scenic"
+        },
+        {
+            "name": "Chintaman Ganesh Temple",
+            "description": "Dedicated to Lord Ganesha, this serene temple is located near the banks of the holy Shipra River and is visited for blessings of wisdom and new beginnings.",
+            "location": "On the Fatehabad railway line",
+            "architecture": "Nagara style pillars",
+            "timings": "5:00 AM to 10:00 PM",
+            "features": "Serene riverside location"
+        },
+        {
+            "name": "Ram Janardan Temple",
+            "description": "Dedicated to Lord Rama and Janardan (Vishnu), built in the 17th century",
+            "location": "Within Ujjain",
+            "architecture": "Maratha-style chariot design",
+            "timings": "6:00 AM to 7:00 PM",
+            "features": "Spiritual paintings, ambiance"
+        },
+        {
+            "name": "Shree Angareshwar Mahadev Mandir",
+            "description": "An ancient Shiva temple linked to the Rudra form of Lord Shiva, and believed to be the birthplace of the planet Mars (Mangal).",
+            "location": "Behind MangalNath Temple, Ujjain",
+            "architecture": "Simple sanctum with ancient Shivling",
+            "timings": "6:00 AM to 8:00 PM",
+            "features": "Rudra energy, peaceful darshan, local faith"
+        },
+        {
+            "name": "Triveni Shani Mandir",
+            "description": "Located at the sacred Triveni Sangam, this temple promotes peace, meditation, and spiritual harmony.",
+            "location": "Triveni, Ujjain outskirts",
+            "architecture": "Modern structure near holy confluence",
+            "timings": "6:00 AM to 7:00 PM",
+            "features": "Meditation space, riverside setting, spiritual retreats"
+        },
+        {
+            "name": "Gadh Kalika Temple",
+            "description": "Dedicated to Goddess Kalika, this temple was visited and revered by the great poet Kalidasa.",
+            "location": "Bheru Gadh, Ujjain",
+            "architecture": "Fort-style structure with Devi shrine",
+            "timings": "6:00 AM to 9:00 PM",
+            "features": "Shakti peeth, historical relevance, Kalidasa connection"
+        },
+        {
+            "name": "Vikram Tila",
+            "description": "Believed to be the throne site of King Vikramaditya, symbolizing his legacy and wisdom.",
+            "location": "Near Mahakal Van area",
+            "architecture": "Stone platform with surrounding trees",
+            "timings": "Open 24 hours",
+            "features": "King Vikramaditya history, serene ambiance"
+        },
+        {
+            "name": "Siddhavat Shiva Temple",
+            "description": "A spiritually charged site believed to grant boons to those performing rituals under the sacred banyan.",
+            "location": "Bheru Gadh, Ujjain",
+            "architecture": "Open-air shrine with banyan tree",
+            "timings": "6:00 AM to 8:00 PM",
+            "features": "Siddhi rituals, banyan tree, quiet spiritual corner"
+        }
+    ],
+    "ritualsAndPoojas": [
+        {
+            "name": "Kalsarp Dosh Pooja",
+            "description": "Ritual to mitigate the effects of Kalsarp Yog in one's horoscope",
+            "location": "Any Place in Ujjain",
+            "duration": "4-5 hours",
+            "timing": "Early morning (6 AM - 9 AM)",
+            "benefits": [
+                "peace",
+                "luck",
+                "growth"
+            ]
+        },
+        {
+            "name": "Shipra Aarti",
+            "description": "Evening ritual performed on the banks of the Shipra River, offering a peaceful and divine experience.",
+            "location": "Ram Ghat",
+            "duration": "1 hour",
+            "timing": "Around 6 o'clock (after sunset)",
+            "benefits": [
+                "peace",
+                "devotion",
+                "purification"
+            ]
+        },
+        {
+            "name": "Harsiddhi Aarti",
+            "description": "A powerful evening aarti held at the historic Harsiddhi Temple.",
+            "location": "Harsiddhi Temple",
+            "duration": "45 minutes",
+            "timing": "7.15 PM to 8 PM",
+            "benefits": [
+                "energy",
+                "spiritual awakening",
+                "divine"
+            ]
+        },
+        {
+            "name": "Pitradosh Nivaran Pooja",
+            "description": "Performed to appease ancestors and remove ancestral curses",
+            "location": "Ram Ghat",
+            "duration": "3-4 hours",
+            "timing": "Morning hours (7 AM - 11 AM)",
+            "benefits": [
+                "peace",
+                "remove block",
+                "harmony"
+            ]
+        },
+        {
+            "name": "Bhasm Aarti",
+            "description": "A unique and sacred Aarti performed using sacred ash (bhasm) to awaken Lord Shiva.",
+            "location": "Mahakaleshwar Temple",
+            "duration": "1-1.5 hours",
+            "timing": "Early morning (4 AM - 6 AM)",
+            "benefits": [
+                "spiritual awakening",
+                "divine energy"
+            ]
+        },
+        {
+            "name": "Navagraha Shanti Pooja",
+            "description": "Pooja to pacify the nine planets and reduce negative planetary effects",
+            "location": "Navagraha Mandir",
+            "duration": "2-3 hours",
+            "timing": "Morning (8 AM - 11 AM)",
+            "benefits": [
+                "balance",
+                "clarity",
+                "success"
+            ]
+        }
+    ],
+    "ghats": [
+        {
+            "name": "Ram Ghat",
+            "description": "A major ghat on the Shipra River, used for rituals and Ganga Aarti",
+            "significance": "Popular for Kalsarp & Pitradosh pooja",
+            "location": "Shipra River bank, Ujjain",
+            "timings": "5 AM to 9 PM",
+            "facilities": [
+                "Parking",
+                "Restrooms",
+                "Shops"
+            ],
+            "nearbyAttractions": [
+                "Mahakaleshwar Temple",
+                "Siddhavat Ghat"
+            ]
+        },
+        {
+            "name": "Siddhavat Ghat",
+            "description": "Sacred ghat for performing Kalsarp and Pitradosh poojas",
+            "significance": "Highly revered for ancestral rituals",
+            "location": "Shipra River bank, Ujjain",
+            "timings": "4 AM to 8 PM",
+            "facilities": [
+                "Pooja Samagri Shops",
+                "Rest Areas"
+            ],
+            "nearbyAttractions": [
+                "Ram Ghat",
+                "Triveni Ghat"
+            ]
+        }
+    ],
+    "practicalTips": [
+        "Best Time to Visit: October to March (pleasant weather); avoid peak summer",
+        "Dress Code: Traditional attire recommended, especially for temple visits",
+        "Crowd Management: Expect heavy crowds during festivals; book darshan in advance",
+        "Parking: Arranged at multiple locations during peak times like New Year",
+        "Hygiene: Carry hand sanitizer and maintain cleanliness at holy sites",
+        "Local Transport: Auto-rickshaws and E-rickshaws are widely available for short trips",
+        "Stay Hydrated: Carry water bottles, especially during hot weather",
+        "Food Options: Local eateries offer vegetarian meals near temple areas"
+    ]
+}

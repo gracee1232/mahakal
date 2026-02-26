@@ -1,0 +1,559 @@
+{
+    "heroSection": {
+        "title": "उज्जैन में करने योग्य बातें",
+        "subtitle": "भारत के पवित्र और ऐतिहासिक हृदय की खोज करें"
+    },
+    "filterOptions": [
+        "सभी",
+        "मंदिर",
+        "महल",
+        "वेधशाला",
+        "ऐतिहासिक"
+    ],
+    "attractions": [
+        {
+            "id": 1,
+            "name": "महाकालेश्वर मंदिर",
+            "slug": "mahakaleshwar-temple-0",
+            "description": "भारत के 12 ज्योतिर्लिंगों में से एक, भगवान शिव को समर्पित",
+            "detailedDescription": "महाकालेश्वर मंदिर भारत में भगवान शिव के सबसे श्रद्धेय मंदिरों में से एक है, जिसमें बारह ज्योतिर्लिंगों में से एक विराजमान है। यह मंदिर अपनी अनूठी भस्म आरती के लिए जाना जाता है।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/thingsToDo/Mahakaleshwar_temple.webp",
+            "location": "जयसिंहपुरा, उज्जैन",
+            "timings": "4:00 AM - 11:00 PM",
+            "entryFee": "Free",
+            "category": "मंदिर",
+            "rating": 4.8,
+            "highlights": [
+                "ज्योतिर्लिंग",
+                "भस्म आरती",
+                "आध्यात्मिक माहौल"
+            ],
+            "address": "महाकालेश्वर मंदिर, जयसिंहपुरा, उज्जैन, मध्य प्रदेश 456001",
+            "specialEvents": [
+                {
+                    "name": "Bhasma Aarti",
+                    "time": "4:00 AM",
+                    "description": "Sacred ritual with sacred ash",
+                    "ticketRequired": true,
+                    "ticketPrice": "₹500",
+                    "bookingLink": "https://www.mahakaleshwar.org/bhasma-aarti-booking"
+                },
+                {
+                    "name": "Mahashivratri",
+                    "time": "Annual",
+                    "description": "Grand celebration of Lord Shiva",
+                    "ticketRequired": false,
+                    "duration": "24 hours"
+                }
+            ],
+            "bestTimeToVisit": "October to March",
+            "recommendedVisitDuration": "2-3 hours",
+            "peakSeason": "November to February",
+            "languagesSpoken": [
+                "Hindi",
+                "English",
+                "Sanskrit"
+            ],
+            "nearbyAttractions": [
+                "Ram Ghat (0.5 km)",
+                "Kal Bhairav Temple (2 km)"
+            ],
+            "transportation": {
+                "byBus": "Ujjain Bus Stand - 2 km (Auto rickshaw available)",
+                "byTrain": "Ujjain Junction - 3 km (Taxi fare approx ₹100)",
+                "byAir": "Indore Airport - 55 km (Taxi fare approx ₹1500)"
+            },
+            "facilities": [
+                "Shoe Storage",
+                "Prasad Counter",
+                "Information Desk",
+                "Security",
+                "Drinking Water"
+            ],
+            "rules": [
+                "No Photography Inside",
+                "Dress Code Required",
+                "Mobile Phones Allowed",
+                "No Leather Items"
+            ],
+            "history": "Dating back to ancient times, this temple is mentioned in various Puranas. The present structure was built by the Maratha general Ranoji Shinde in 1734. The temple was destroyed by Sultan Shams-ud-din Iltutmish in 1235 and later rebuilt.",
+            "significance": "One of the 12 Jyotirlingas, believed to be self-manifested (Swayambhu). The lingam is unique as it faces south (Dakshinamurti) while most Shiva lingams face east.",
+            "architecture": "Maratha architecture with intricate carvings and multiple levels. The temple has five levels, one of which is underground. The shikara (spire) is adorned with sculptural work.",
+            "crowd": {
+                "peakHours": "6:00 AM - 10:00 AM, 6:00 PM - 9:00 PM",
+                "leastCrowded": "11:00 AM - 4:00 PM",
+                "averageWaitTime": "30-45 minutes during peak hours"
+            },
+            "photography": {
+                "allowed": "Only in outer areas",
+                "fee": "Free",
+                "restrictions": "No photography of main deity"
+            },
+            "dressCode": "Traditional Indian attire preferred. No shorts or sleeveless tops.",
+            "visitorTips": [
+                "Arrive early for Bhasma Aarti (by 3:30 AM)",
+                "Winter mornings can be chilly, carry light woolens",
+                "Footwear not allowed inside temple premises",
+                "Mobile phones must be switched off or silent mode"
+            ],
+            "conservationStatus": "ASI Protected Monument",
+            "yearEstablished": "Unknown (Ancient), Current structure built in 1734",
+            "management": "Ujjain Municipal Corporation & Temple Trust",
+            "annualVisitors": "Over 5 million",
+            "recognition": "One of the 12 Jyotirlingas, Important pilgrimage site in Hindu religion"
+        },
+        {
+            "id": 2,
+            "name": "राम घाट",
+            "slug": "ram-ghat-1",
+            "description": "शिप्रा नदी के तट पर प्रसिद्ध घाट जहां पवित्र अनुष्ठान किए जाते हैं",
+            "detailedDescription": "राम घाट उज्जैन में सबसे महत्वपूर्ण स्नान घाट है, जो पवित्र शिप्रा नदी के तट पर स्थित है। यह हर 12 साल में आयोजित होने वाले प्रसिद्ध कुंभ मेले का केंद्र बिंदु है।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/thingsToDo/Ram_Ghat.webp",
+            "location": "महाकालेश्वर मंदिर के पास",
+            "timings": "Open 24 hours",
+            "entryFee": "Free",
+            "category": "घाट",
+            "rating": 4.6,
+            "highlights": [
+                "आरती समारोह",
+                "पवित्र स्नान",
+                "धार्मिक सभा"
+            ],
+            "address": "राम घाट, शिप्रा नदी, उज्जैन, मध्य प्रदेश 456001",
+            "specialEvents": [
+                {
+                    "name": "Ganga Aarti",
+                    "time": "7:00 PM daily",
+                    "description": "Evening prayer ceremony with lamps and chants",
+                    "ticketRequired": false,
+                    "duration": "45 minutes",
+                    "bestViewingSpots": "Main platform or boats"
+                },
+                {
+                    "name": "Kumbh Mela",
+                    "time": "Every 12 years (Next: 2028)",
+                    "description": "Largest religious gathering in the world",
+                    "ticketRequired": false,
+                    "attendance": "Over 50 million pilgrims"
+                }
+            ],
+            "bestTimeToVisit": "October to March, Early morning or evening",
+            "recommendedVisitDuration": "1-2 hours",
+            "peakSeason": "During religious festivals",
+            "languagesSpoken": [
+                "Hindi",
+                "English"
+            ],
+            "nearbyAttractions": [
+                "Mahakaleshwar Temple (0.5 km)",
+                "Sandipani Ashram (1 km)"
+            ],
+            "transportation": {
+                "byBus": "Ujjain Bus Stand - 1.5 km (₹50 by auto)",
+                "byTrain": "Ujjain Junction - 2.5 km (₹100 by taxi)",
+                "byAir": "Indore Airport - 55 km (₹1500 by taxi)"
+            },
+            "facilities": [
+                "Bathing Facilities",
+                "Changing Rooms",
+                "Boat Rides (₹200 per person)",
+                "Food Stalls",
+                "Security"
+            ],
+            "rules": [
+                "Maintain Cleanliness",
+                "No Loud Music",
+                "Respect Religious Sentiments",
+                "No Alcohol"
+            ],
+            "history": "Ancient ghat mentioned in Hindu scriptures. The current structure was renovated by the Scindia rulers in the 19th century. It has been the site of royal coronations and important religious ceremonies for centuries.",
+            "significance": "Sacred bathing spot on Shipra River, believed to purify sins according to Hindu beliefs. Considered as holy as the ghats of Varanasi.",
+            "architecture": "Traditional stone steps leading to river with multiple platforms. The ghat stretches over 1 km with several smaller ghats adjoining it.",
+            "crowd": {
+                "peakHours": "5:00 AM - 8:00 AM (morning bath), 6:00 PM - 8:00 PM (aarti time)",
+                "leastCrowded": "10:00 AM - 4:00 PM",
+                "specialNote": "Extremely crowded during festivals"
+            },
+            "photography": {
+                "allowed": "Yes",
+                "fee": "Free",
+                "restrictions": "Be respectful during religious ceremonies"
+            },
+            "dressCode": "Modest clothing recommended. Can change into bathing clothes at facilities.",
+            "visitorTips": [
+                "Carry a towel and change of clothes if planning to bathe",
+                "Beware of pickpockets in crowded times",
+                "Best photography during golden hours",
+                "Boat rides offer great views of the aarti"
+            ],
+            "conservationStatus": "Heritage Site maintained by Municipal Corporation",
+            "yearEstablished": "Ancient (current structure 19th century)",
+            "management": "Ujjain Municipal Corporation",
+            "annualVisitors": "Over 2 million",
+            "recognition": "Primary site for Kumbh Mela in Ujjain"
+        },
+        {
+            "id": 3,
+            "name": "काल भैरव मंदिर",
+            "slug": "kal-bhairav-temple-2",
+            "description": "काल भैरव को समर्पित प्राचीन मंदिर, जो उज्जैन के संरक्षक देवता हैं",
+            "detailedDescription": "काल भैरव मंदिर भारत के सबसे अनूठे मंदिरों में से एक है, जो भैरव के रूप में भगवान शिव के भयंकर रूप को समर्पित है। जो चीज इस मंदिर को असाधारण बनाती है, वह है देवता को शराब चढ़ाने की परंपरा।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/thingsToDo/Kal_Bhairav_Temple.webp",
+            "location": "भर्तृहरि हिल्स, उज्जैन",
+            "timings": "5:00 AM - 9:00 PM",
+            "entryFee": "Free",
+            "category": "मंदिर",
+            "rating": 4.7,
+            "highlights": [
+                "शराब चढ़ाना",
+                "तांत्रिक संबंध",
+                "प्राचीन मूर्ति"
+            ],
+            "address": "काल भैरव मंदिर, भर्तृहरि हिल्स, उज्जैन, मध्य प्रदेश 456001",
+            "specialEvents": [
+                {
+                    "name": "Bhairav Ashtami",
+                    "time": "Monthly (8th day of lunar month)",
+                    "description": "Special worship on 8th day of lunar month",
+                    "ticketRequired": false,
+                    "specialFeature": "Increased liquor offerings"
+                },
+                {
+                    "name": "Kalratri Puja",
+                    "time": "Annual (October/November)",
+                    "description": "Night-long worship ceremony",
+                    "ticketRequired": false,
+                    "duration": "All night"
+                }
+            ],
+            "bestTimeToVisit": "October to March",
+            "recommendedVisitDuration": "1-2 hours",
+            "peakSeason": "Weekends and Bhairav Ashtami days",
+            "languagesSpoken": [
+                "Hindi",
+                "English"
+            ],
+            "nearbyAttractions": [
+                "Mahakaleshwar Temple (2 km)",
+                "Bharthari Caves (0.5 km)"
+            ],
+            "transportation": {
+                "byBus": "Ujjain Bus Stand - 4 km (₹80 by auto)",
+                "byTrain": "Ujjain Junction - 5 km (₹120 by taxi)",
+                "byAir": "Indore Airport - 58 km (₹1600 by taxi)"
+            },
+            "facilities": [
+                "Prasad Shop",
+                "Liquor Counter (for offerings)",
+                "Parking Area",
+                "Information Board"
+            ],
+            "rules": [
+                "Liquor Offering Allowed (only as prasad)",
+                "Photography Restricted inside sanctum",
+                "Maintain Silence"
+            ],
+            "history": "Ancient temple dating back to medieval period. The current structure was rebuilt in the 19th century. The temple has strong connections with Tantric traditions and was an important site for Tantric practitioners.",
+            "significance": "Guardian deity of Ujjain, protector of the city and devotees. The temple is one of the few where liquor is offered as prasad.",
+            "architecture": "Simple stone structure with intricate carvings of Bhairav. The sanctum houses a stone idol adorned with silver ornaments.",
+            "crowd": {
+                "peakHours": "6:00 AM - 9:00 AM, 6:00 PM - 8:00 PM",
+                "leastCrowded": "11:00 AM - 4:00 PM",
+                "specialNote": "Long queues on Bhairav Ashtami"
+            },
+            "photography": {
+                "allowed": "Outer areas only",
+                "fee": "Free",
+                "restrictions": "No photography of main deity"
+            },
+            "dressCode": "Traditional Indian attire preferred",
+            "visitorTips": [
+                "Don't be alarmed by liquor offerings - it's part of tradition",
+                "Visit early to avoid crowds",
+                "Combine with Bharthari Caves visit",
+                "Respect the tantric traditions"
+            ],
+            "conservationStatus": "State Protected Monument",
+            "yearEstablished": "Medieval period (current structure 19th century)",
+            "management": "Temple Trust",
+            "annualVisitors": "Over 1 million",
+            "recognition": "Unique temple allowing liquor offerings"
+        },
+        {
+            "id": 4,
+            "name": "जंतर मंतर",
+            "slug": "jantar-mantar-3",
+            "description": "महाराजा जय सिंह द्वितीय द्वारा निर्मित ऐतिहासिक खगोलीय वेधशाला",
+            "detailedDescription": "उज्जैन में जंतर मंतर 18वीं शताब्दी की शुरुआत में महाराजा जय सिंह द्वितीय द्वारा बनाई गई पांच खगोलीय वेधशालाओं में से एक है। इस वेधशाला को नग्न आंखों से खगोलीय स्थितियों को देखने के लिए डिजाइन किया गया था।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/thingsToDo/Jantar_Mantar.webp",
+            "location": "वेदशाला रोड के पास, उज्जैन",
+            "timings": "7:00 AM - 7:00 PM",
+            "entryFee": "₹10 (Indians), ₹50 (Foreigners), ₹5 (Students)",
+            "category": "वेधशाला",
+            "rating": 4.3,
+            "highlights": [
+                "धूपघड़ी",
+                "खगोलीय उपकरण",
+                "शैक्षिक स्थल"
+            ],
+            "address": "जंतर मंतर, वेदशाला रोड, उज्जैन, मध्य प्रदेश 456001",
+            "specialEvents": [
+                {
+                    "name": "Astronomy Workshop",
+                    "time": "Every Saturday (10 AM - 12 PM)",
+                    "description": "Educational workshops on astronomy for students",
+                    "ticketRequired": true,
+                    "ticketPrice": "₹50",
+                    "ageGroup": "10+ years"
+                },
+                {
+                    "name": "Solar Eclipse Viewing",
+                    "time": "During eclipses",
+                    "description": "Safe eclipse viewing sessions with experts",
+                    "ticketRequired": false,
+                    "equipmentProvided": "Solar filters and telescopes"
+                }
+            ],
+            "bestTimeToVisit": "October to March, Morning hours for best light",
+            "recommendedVisitDuration": "1-2 hours",
+            "peakSeason": "Winter months and school vacations",
+            "languagesSpoken": [
+                "Hindi",
+                "English"
+            ],
+            "nearbyAttractions": [
+                "Mahakaleshwar Temple (1.5 km)",
+                "Gopal Mandir (0.8 km)"
+            ],
+            "transportation": {
+                "byBus": "Ujjain Bus Stand - 2.5 km (₹60 by auto)",
+                "byTrain": "Ujjain Junction - 3.5 km (₹100 by taxi)",
+                "byAir": "Indore Airport - 56 km (₹1500 by taxi)"
+            },
+            "facilities": [
+                "Museum",
+                "Guide Service (₹100 per group)",
+                "Audio Guide (₹50)",
+                "Souvenir Shop",
+                "Drinking Water"
+            ],
+            "rules": [
+                "No Touching Instruments",
+                "Photography Allowed",
+                "Follow Guide Instructions",
+                "No Smoking"
+            ],
+            "history": "Built in 1725 by Maharaja Jai Singh II, who built similar observatories in Delhi, Jaipur, Mathura and Varanasi. Ujjain was chosen due to its location on the Tropic of Cancer and its historical importance as a center of astronomy.",
+            "significance": "UNESCO World Heritage Site candidate, demonstrates medieval India's advanced astronomical knowledge. Ujjain has been the prime meridian for Hindu geographers since ancient times.",
+            "architecture": "18th-century Rajput architecture with precise astronomical instruments made of stone and marble. The main instruments include Samrat Yantra (sundial), Nadi Valaya Yantra (equinoctial sundial) and Digamsa Yantra (azimuth instrument).",
+            "crowd": {
+                "peakHours": "10:00 AM - 12:00 PM, 4:00 PM - 6:00 PM",
+                "leastCrowded": "7:00 AM - 9:00 AM",
+                "specialNote": "School groups frequent during weekdays"
+            },
+            "photography": {
+                "allowed": "Yes",
+                "fee": "Free",
+                "restrictions": "No tripods without permission"
+            },
+            "dressCode": "No specific dress code",
+            "visitorTips": [
+                "Hire a guide to fully understand the instruments",
+                "Morning light is best for photography",
+                "Combine with visit to nearby temples",
+                "Check museum for historical context"
+            ],
+            "conservationStatus": "ASI Protected Monument",
+            "yearEstablished": "1725 AD",
+            "management": "Archaeological Survey of India",
+            "annualVisitors": "Approx 500,000",
+            "recognition": "Part of India's scientific heritage, Featured in NCERT textbooks"
+        },
+        {
+            "id": 5,
+            "name": "मंगलनाथ मंदिर",
+            "slug": "mangalnath-temple-4",
+            "description": "मंगल को समर्पित मंदिर, मंगल का जन्मस्थान माना जाता है",
+            "detailedDescription": "मंगलनाथ मंदिर एक अनूठा ज्योतिषीय मंदिर है जो मंगल को समर्पित है। हिंदू पौराणिक कथाओं के अनुसार, इस स्थान को मंगल का जन्मस्थान माना जाता है।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/thingsToDo/Mangalnath_Temple.webp",
+            "location": "मंगलनाथ रोड, उज्जैन",
+            "timings": "6:00 AM - 9:00 PM",
+            "entryFee": "Free",
+            "category": "मंदिर",
+            "rating": 4.5,
+            "highlights": [
+                "ग्रह पूजा",
+                "ज्योतिषीय प्रासंगिकता",
+                "शांतिपूर्ण वातावरण"
+            ],
+            "address": "मंगलनाथ मंदिर, मंगलनाथ रोड, उज्जैन, मध्य प्रदेश 456001",
+            "specialEvents": [
+                {
+                    "name": "Mangal Puja",
+                    "time": "Every Tuesday",
+                    "description": "Special worship on Mars day",
+                    "ticketRequired": false,
+                    "significance": "Most auspicious day for worship"
+                },
+                {
+                    "name": "Mangal Shanti Yagya",
+                    "time": "First Tuesday of every month",
+                    "description": "Fire ritual to appease Mars",
+                    "ticketRequired": true,
+                    "ticketPrice": "₹100-₹500 depending on participation level"
+                }
+            ],
+            "bestTimeToVisit": "October to March, Tuesday for special significance",
+            "recommendedVisitDuration": "1 hour",
+            "peakSeason": "Tuesdays and astrologically significant days",
+            "languagesSpoken": [
+                "Hindi",
+                "English",
+                "Sanskrit"
+            ],
+            "nearbyAttractions": [
+                "Shipra River (0.2 km)",
+                "Triveni Sangam (1 km)"
+            ],
+            "transportation": {
+                "byBus": "Ujjain Bus Stand - 3 km (₹70 by auto)",
+                "byTrain": "Ujjain Junction - 4 km (₹110 by taxi)",
+                "byAir": "Indore Airport - 58 km (₹1600 by taxi)"
+            },
+            "facilities": [
+                "Astrology Consultation (fees vary)",
+                "Prasad Counter",
+                "Parking",
+                "Information Desk",
+                "Meditation Area"
+            ],
+            "rules": [
+                "Maintain Silence",
+                "No Photography Inside sanctum",
+                "Remove Footwear",
+                "Follow Priest Instructions"
+            ],
+            "history": "Ancient temple mentioned in Hindu scriptures. The current structure was renovated in the 19th century. Ujjain has been an important center for astronomy and astrology since ancient times, and this temple is part of that tradition.",
+            "significance": "First temple dedicated to Mars globally. Believed to remove \"Mangal Dosha\" (astrological affliction caused by Mars) from horoscopes. The temple is located at what ancient astronomers considered as the exact point where Mars was born.",
+            "architecture": "Simple yet elegant structure with Mars symbol prominently displayed. The temple has a small sanctum with the Mars deity and a larger hall for rituals.",
+            "crowd": {
+                "peakHours": "Tuesday all day, 7:00 AM - 10:00 AM daily",
+                "leastCrowded": "Weekdays 2:00 PM - 5:00 PM",
+                "specialNote": "Astrologers available all days but more on Tuesdays"
+            },
+            "photography": {
+                "allowed": "Outer areas only",
+                "fee": "Free",
+                "restrictions": "No photography of main deity"
+            },
+            "dressCode": "Traditional Indian attire preferred",
+            "visitorTips": [
+                "Consult temple astrologers for horoscope analysis",
+                "Tuesdays are most crowded but also most auspicious",
+                "Peaceful atmosphere by the river",
+                "Combine with visit to nearby ghats"
+            ],
+            "conservationStatus": "State Protected Site",
+            "yearEstablished": "Ancient (current structure 19th century)",
+            "management": "Temple Trust",
+            "annualVisitors": "Approx 300,000",
+            "recognition": "Unique astrological temple, Important for Hindu astrology"
+        },
+        {
+            "id": 6,
+            "name": "कालियादेह पैलेस",
+            "slug": "kaliadeh-palace-5",
+            "description": "शिप्रा नदी के तट पर स्थित फारसी वास्तुकला वाला महल",
+            "detailedDescription": "कालियादेह पैलेस शिप्रा नदी में एक द्वीप पर स्थित फारसी वास्तुकला का एक सुंदर उदाहरण है। सल्तनत काल के दौरान निर्मित, बाद में मुगल सम्राटों द्वारा इस महल का उपयोग किया गया था।",
+            "image": "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/thingsToDo/kalideh.webp",
+            "location": "कालियादेह रोड, उज्जैन",
+            "timings": "9:00 AM - 6:00 PM",
+            "entryFee": "₹10 (Indians), ₹100 (Foreigners), ₹5 (Students)",
+            "category": "महल",
+            "rating": 4.2,
+            "highlights": [
+                "ऐतिहासिक वास्तुकला",
+                "नदी का दृश्य",
+                "फोटोग्राफी स्थल"
+            ],
+            "address": "कालियादेह पैलेस, कालियादेह रोड, उज्जैन, मध्य प्रदेश 456001",
+            "specialEvents": [
+                {
+                    "name": "Heritage Walk",
+                    "time": "Every Saturday & Sunday (10 AM)",
+                    "description": "Guided tour of palace history and architecture",
+                    "ticketRequired": true,
+                    "ticketPrice": "₹25",
+                    "duration": "1.5 hours"
+                },
+                {
+                    "name": "Photography Workshop",
+                    "time": "First Sunday of every month",
+                    "description": "Learn palace photography techniques from experts",
+                    "ticketRequired": true,
+                    "ticketPrice": "₹200",
+                    "equipment": "Bring your own camera"
+                }
+            ],
+            "bestTimeToVisit": "October to March, Evening for best lighting",
+            "recommendedVisitDuration": "1-2 hours",
+            "peakSeason": "Weekends and holidays",
+            "languagesSpoken": [
+                "Hindi",
+                "English"
+            ],
+            "nearbyAttractions": [
+                "Shipra River (on site)",
+                "Bharthari Caves (3 km)"
+            ],
+            "transportation": {
+                "byBus": "Ujjain Bus Stand - 8 km (₹150 by auto)",
+                "byTrain": "Ujjain Junction - 9 km (₹200 by taxi)",
+                "byAir": "Indore Airport - 62 km (₹1800 by taxi)"
+            },
+            "facilities": [
+                "Museum (small artifacts display)",
+                "Garden",
+                "Cafeteria (basic snacks)",
+                "Souvenir Shop",
+                "Benches for resting"
+            ],
+            "rules": [
+                "Photography Allowed",
+                "No Loud Noise",
+                "Stay on Designated Paths",
+                "No Littering"
+            ],
+            "history": "Built in 1458 by Sultan Ghiyasuddin Khilji of Malwa. The palace was later visited by Mughal emperors Akbar and Jahangir. The palace was damaged during Maratha wars and fell into disrepair. The current ruins still showcase the grandeur of its original design.",
+            "significance": "Example of Indo-Islamic architecture, historical importance in Malwa region. The palace was known for its advanced water management system with channels and fountains.",
+            "architecture": "Persian and Islamic architecture with beautiful arches and water channels. The palace was designed as a pleasure retreat with gardens and water features.",
+            "crowd": {
+                "peakHours": "10:00 AM - 12:00 PM, 3:00 PM - 5:00 PM",
+                "leastCrowded": "9:00 AM - 10:00 AM, 5:00 PM - 6:00 PM",
+                "specialNote": "Very peaceful on weekdays"
+            },
+            "photography": {
+                "allowed": "Yes",
+                "fee": "Free (₹500 for professional shoots)",
+                "restrictions": "No drones without permission"
+            },
+            "dressCode": "No specific dress code",
+            "visitorTips": [
+                "Great spot for sunset photography",
+                "Wear comfortable shoes as surfaces are uneven",
+                "Carry water as it can get hot",
+                "Visit the small museum for historical context"
+            ],
+            "conservationStatus": "ASI Protected Monument",
+            "yearEstablished": "1458 AD",
+            "management": "Madhya Pradesh Tourism Department",
+            "annualVisitors": "Approx 200,000",
+            "recognition": "State Protected Heritage Site, Featured in several historical studies"
+        }
+    ],
+    "cardLabels": {
+        "location": "स्थान",
+        "timings": "समय",
+        "entryFee": "प्रवेश शुल्क"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "heroHeading": "Maheshwar",
+    "heroSubheading": "Experience the Serenity of Maheshwar",
+    "heroText": "Historic town known for its temples, ghats, and Maheshwari handloom sarees.",
+    "sections": {
+        "royalTownTitle": "The Royal Town of Maheshwar",
+        "royalTownDesc": "Capital of the Malwa region under Queen Ahilyabai Holkar.",
+        "ritualsTitle": "Rituals and Poojas",
+        "ghatsTitle": "Ghats",
+        "aboutTitle": "About",
+        "aboutDesc": "Historic town known for its temples, ghats, and Maheshwari handloom sarees.",
+        "practicalTipsTitle": "Practical Tips",
+        "practicalTipsDesc": "Planning your visit for a smooth experience.",
+        "templesTitle": "Temples in Maheshwar"
+    },
+    "cardLabels": {
+        "location": "Location",
+        "duration": "Duration",
+        "timing": "Timing",
+        "significance": "Significance",
+        "architecture": "Architecture",
+        "features": "Features"
+    },
+    "videos": [
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/m3.mp4",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/m2.mp4",
+        "https://sin1.contabostorage.com/d1fa3867924f4c149226431ef8cbe8ee:ujjain/m1.mp4"
+    ],
+    "overview": [
+        "Maheshwar is a historic town located in the Khargone district of Madhya Pradesh, India.",
+        "Situated on the north bank of the Narmada River, it is renowned for its spiritual significance and architectural beauty.",
+        "The town served as the capital of the Malwa region during the reign of the Maratha queen Ahilyabai Holkar.",
+        "Maheshwar is famous for its handwoven Maheshwari sarees, temples, and ghats.",
+        "The majestic Maheshwar Fort and riverside temples offer a glimpse into the town’s glorious past."
+    ],
+    "city": {
+        "name": "Maheshwar",
+        "state": "Madhya Pradesh, India",
+        "significance": "Historic town known for its temples, ghats, and Maheshwari handloom sarees.",
+        "historicalImportance": "Capital of the Malwa region under Queen Ahilyabai Holkar."
+    },
+    "temples": [
+        {
+            "name": "Ahilyeshwar Temple",
+            "description": "Built by Queen Ahilyabai Holkar, dedicated to Lord Shiva.",
+            "location": "Maheshwar Fort",
+            "architecture": "Maratha style",
+            "timings": "6:00 AM to 9 PM",
+            "features": "Historical significance"
+        },
+        {
+            "name": "Rajrajeshwar Temple",
+            "description": "Ancient temple with eternal flame.",
+            "location": "Near Maheshwar Fort",
+            "architecture": "Traditional Hindu",
+            "timings": "6:00 AM to 9 PM",
+            "features": "Akhand Jyoti"
+        }
+    ],
+    "rituals": [
+        {
+            "name": "Narmada Aarti",
+            "description": "Daily evening ritual on the ghats.",
+            "location": "Ahilya Ghat",
+            "duration": "30-45 mins",
+            "timing": "Sunset",
+            "benefits": [
+                "Spiritual cleaning"
+            ]
+        }
+    ],
+    "ghats": [
+        {
+            "name": "Ahilya Ghat",
+            "description": "Main ghat built by Ahilyabai Holkar.",
+            "significance": "Central to spiritual activities",
+            "location": "Near Fort",
+            "timings": "5:00 AM to 9:00 PM",
+            "facilities": [
+                "Bathing areas"
+            ]
+        }
+    ],
+    "practicalTips": {
+        "bestTimeToVisit": "Oct to Mar",
+        "dressCode": "Modest attire"
+    },
+    "nearbyAttractions": [
+        {
+            "name": "Mandu",
+            "distance": "40 km"
+        }
+    ]
+}

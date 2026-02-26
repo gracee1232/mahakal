@@ -1,0 +1,129 @@
+{
+  "tabTitles": {
+    "dressCode": "Dress Code",
+    "genderRestrictions": "Gender Restrictions",
+    "bookingInfo": "Booking Info",
+    "offerings": "Offerings"
+  },
+  "formLabels": {
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "nationality": "Nationality",
+    "date": "Selected Date",
+    "formTitle": "Book Your Aarti",
+    "calendarTitle": "Select Your Aarti Date",
+    "sectionMainTitle": "Book Your Bhasm Aarti Experience",
+    "sectionSubtitle": "Reserve your spot for this sacred ritual at Mahakaleshwar Temple",
+    "detailsTitle": "Bhasm Aarti Details",
+    "description": "Mahakaleshwar Temple, located in Ujjain, Madhya Pradesh, is one of the twelve Jyotirlingas in India. The Bhasm Aarti, a ritual involving the offering of ash to Lord Shiva, is a significant spiritual event attracting devotees worldwide.",
+    "prices": "Prices:",
+    "priceText": "Just ₹250 for all the devotees.",
+    "timings": "Timings",
+    "entryStarts": "Entry Starts: 1:00 AM - 3:00 AM",
+    "bhasmAartiTime": "Bhasm Aarti: 4:00 AM - 5:30 AM",
+    "guidelines": "Important Guidelines",
+    "guideline1": "Carry a valid government-issued ID",
+    "guideline2": "Wear modest traditional attire",
+    "guideline3": "Arrive early for security and seating",
+    "guideline4": "Photography is not allowed inside the temple",
+    "heroTitle": "Bhasm Aarti Enquiry",
+    "heroDescription": "Experience the divine Bhasm Aarti at Mahakaleshwar Temple in Ujjain. This sacred ritual, performed with holy ash, is a unique spiritual event. Book online easily, with Indian nationals advised to reserve 30 days ahead and foreign nationals 90 days in advance.",
+    "soulOfMahakalTitle": "The Soul of Mahakal",
+    "locationTitle": "Location",
+    "timingsTitle": "Timings",
+    "procedureTitle": "Procedure",
+    "guidelinesTitle": "Guidelines",
+    "ritualStepsTitle": "Ritual Steps",
+    "soulOfMahakal": "Feel the spiritual intensity of witnessing Lord Mahakal adorned with sacred ash, accompanied by chants, drums, and an atmosphere charged with divine energy.",
+    "guidelinesDesc": "To attend the Bhasma Aarti, devotees must follow strict rules of cleanliness, dress modestly, and arrive well before dawn for security checks and seating.",
+    "ritualStepsDesc": "Understand each moment of the ritual—from the preparation of the Lingam to the Abhishek, decoration, and final Aarti—bringing you closer to the divine.",
+    "spiritualSignificanceTitle": "Spiritual Significance & Benefits"
+  },
+  "successMessage": {
+    "title": "Enquiry Sent Successfully!",
+    "desc": "Aarti Enquiry received."
+  },
+  "submitBtn": "Submit Enquiry",
+  "submittingBtn": "Submitting...",
+  "formPlaceholders": {
+    "name": "Enter your full name",
+    "email": "Enter your email address",
+    "phone": "Enter your 10-digit phone number"
+  },
+  "bhasmAartiData": {
+    "overview": [
+      "The Bhasma Aarti is a sacred and unique ritual performed daily at the Mahakaleshwar Temple in Ujjain.",
+      "It is conducted before dawn and involves offering sacred ash (bhasma) to the Shiva Lingam.",
+      "The ash symbolizes the transient nature of life, purity, and the cycle of creation and destruction.",
+      "The ritual is known for its spiritual intensity and divine ambiance, attracting devotees from all over the world.",
+      "It includes Vedic chants, bell sounds, and rhythmic drum beats, creating a charged spiritual atmosphere.",
+      "Access is limited, and prior booking is often required to witness the ritual.",
+      "It's a once-in-a-lifetime spiritual experience for many devotees.",
+      "The ritual's sacred ash symbolizes life's purity and cycles."
+    ],
+    "location": [
+      "Temple Name: Mahakaleshwar Jyotirlinga",
+      "City: Ujjain",
+      "State: Madhya Pradesh",
+      "Country: India",
+      "Nearest Railway Station: Ujjain Junction (3 km)",
+      "Nearest Airport: Devi Ahilya Bai Holkar Airport, Indore"
+    ],
+    "timing": [
+      "Aarti Start: 4:00 AM",
+      "Reporting Time: 2:00 AM",
+      "Duration: 1.5 hours",
+      "Brahma Muhurat: Approximately 3:30 AM to 5:30 AM",
+      "Gate Opening Time: 1:30 AM",
+      "Ideal Arrival Time: Between 1:45 AM and 2:00 AM"
+    ],
+    "procedure": [
+      "Ritual starts before dawn, lasts ~2 hours.",
+      "Abhishek with water, milk, curd, honey, sandalwood.",
+      "Lingam adorned with flowers, bilva leaves, and cloth.",
+      "Priest swings sacred ash over the Lingam.",
+      "Chants, bells, and damru fill the air.",
+      "Devotees feel a strong spiritual aura."
+    ],
+    "guidelines": [
+      "Advance booking is mandatory via the official website.",
+      "Mobile phones and cameras are prohibited inside the temple.",
+      "Follow traditional Indian dress code strictly.",
+      "Report at the temple gate by 2:00 AM for security check-in.",
+      "Women are not allowed in the inner sanctum during the Aarti.",
+      "Carry a valid government-issued ID for verification.",
+      "Maintain silence and decorum during the entire ritual.",
+      "Do not carry any food or drinks inside the temple premises."
+    ],
+    "ritualSteps": [
+      "Devotees gather in the early morning hours.",
+      "Priests perform Abhishek with sacred ash (Bhasm).",
+      "Chanting of Vedic mantras and use of musical instruments.",
+      "Darshan is allowed after the ritual concludes.",
+      "The Shiva Lingam is bathed with water, milk, curd, honey, and sandalwood paste.",
+      "The Lingam is decorated with bilva leaves, flowers, and sacred cloth.",
+      "Aarti is performed with lit oil lamps amidst chants of 'Om Namah Shivaya' and 'Har Har Mahadev'.",
+      "The ritual concludes with distribution of prasad to devotees."
+    ],
+    "dressCode": {
+      "male": "Dhoti and Angavastram",
+      "female": "Saree or Salwar Kameez (no Western attire)"
+    },
+    "genderRestrictions": {
+      "male": "Allowed",
+      "female": "Allowed (not allowed in garbhagriha during aarti)"
+    },
+    "bookingInfo": {
+      "isBookingRequired": "Yes",
+      "isOnlineBookingAvailable": "Yes"
+    },
+    "offerings": [
+      "Bhasm (Sacred Ash)",
+      "Bel Patra",
+      "Milk",
+      "Water",
+      "Chandan"
+    ]
+  }
+}
