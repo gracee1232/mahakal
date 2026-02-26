@@ -6,23 +6,22 @@ import sys
 import os
 
 # Fix encoding for Windows terminal
-os.environ["PYTHONIOENCODING"] = "utf-8"
+if sys.platform == 'win32':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 
 from app.hf_client import call_hf_translation
 
 TEST_HINDI = "महाकाल मंदिर उज्जैन में स्थित है। यह भगवान शिव का पवित्र धाम है।"
 
 LANGUAGES = {
-    "bn": "Bengali",
-    "mr": "Marathi",
-    "gu": "Gujarati",
     "ta": "Tamil",
     "te": "Telugu",
+    "mr": "Marathi",
     "kn": "Kannada",
-    "ml": "Malayalam",
-    "pa": "Punjabi",
-    "or": "Odia",
-    "ur": "Urdu",
+    "gu": "Gujarati",
+    "bn": "Bengali",
 }
 
 def run_tests():

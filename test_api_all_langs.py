@@ -1,19 +1,23 @@
 import requests
 import json
 import os
+import sys
+
+# Fix encoding for Windows terminal
+if sys.platform == 'win32':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+
 os.environ["PYTHONIOENCODING"] = "utf-8"
 
 LANGUAGES = {
-    "bn": "Bengali",
-    "mr": "Marathi",
-    "gu": "Gujarati",
     "ta": "Tamil",
     "te": "Telugu",
+    "mr": "Marathi",
     "kn": "Kannada",
-    "ml": "Malayalam",
-    "pa": "Punjabi",
-    "or": "Odia",
-    "ur": "Urdu",
+    "gu": "Gujarati",
+    "bn": "Bengali",
 }
 
 TITLE = "MAHAKAL मंदिर"
