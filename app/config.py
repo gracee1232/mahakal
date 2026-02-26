@@ -9,5 +9,4 @@ HF_MODEL_URL = "https://router.huggingface.co/hf-inference/models/facebook/nllb-
 # JSON file storage paths
 _BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(_BASE_DIR, "data")
-TEST_DATA_FILE = os.path.join(DATA_DIR, "test_data.json")
 OUTPUT_FILE = os.path.join(DATA_DIR, "translated_output.json")
